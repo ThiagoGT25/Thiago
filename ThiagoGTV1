@@ -1,110 +1,378 @@
-#EXTINF:-1,EI PLUS HD
-http://painel.ebanonet.com.br:25461/456123/456123/24835
-#EXTINF:-1,EI PLUS 3 HD
-http://painel.ebanonet.com.br:25461/456123/456123/32163
-#EXTINF:-1,DISCOVERY HOME & HEALTH HD
-http://painel.ebanonet.com.br:25461/456123/456123/6131
-#EXTINF:-1,DISCOVERY HOME & HEALTH HD*
-http://painel.ebanonet.com.br:25461/456123/456123/20813
-#EXTINF:-1,ESPN 2  HD*
-http://painel.ebanonet.com.br:25461/456123/456123/20787
-#EXTINF:-1,ESPN BRASIL SD
-http://painel.ebanonet.com.br:25461/456123/456123/4380
-#EXTINF:-1,ESPN BRASIL HD*
-http://painel.ebanonet.com.br:25461/456123/456123/20783
-#EXTINF:-1,ESPN HD
-http://painel.ebanonet.com.br:25461/456123/456123/6127
-#EXTINF:-1,FOX PREMIUM 1 HD
-http://painel.ebanonet.com.br:25461/456123/456123/10279
-#EXTINF:-1,FOX PREMIUM 1 HD*
-http://painel.ebanonet.com.br:25461/456123/456123/20763
-#EXTINF:-1,FOX PREMIUM 2 HD
-http://painel.ebanonet.com.br:25461/456123/456123/10278
-#EXTINF:-1,FOX SPORTS 2 HD
-http://painel.ebanonet.com.br:25461/456123/456123/6117
-#EXTINF:-1,FOX SPORTS 2 HD*
-http://painel.ebanonet.com.br:25461/456123/456123/20767
-#EXTINF:-1,FOX SPORTS SD
-http://painel.ebanonet.com.br:25461/456123/456123/4373
-#EXTINF:-1,FOX SPORTS SD*
-http://painel.ebanonet.com.br:25461/456123/456123/20772
-#EXTINF:-1,GLOBO MINAS HD
-http://painel.ebanonet.com.br:25461/456123/456123/7528
-#EXTINF:-1,GLOBO MINAS SD
-http://painel.ebanonet.com.br:25461/456123/456123/10276
-#EXTINF:-1,GLOBO RJ HD
-http://painel.ebanonet.com.br:25461/456123/456123/6113
-#EXTINF:-1,GLOBO RJ HD*
-http://painel.ebanonet.com.br:25461/456123/456123/22756
-#EXTINF:-1,GLOBO NEWS HD
-http://painel.ebanonet.com.br:25461/456123/456123/7442
-#EXTINF:-1,GLOBO NEWS HD*
-http://painel.ebanonet.com.br:25461/456123/456123/11043
-#EXTINF:-1,HBO HD*
-http://painel.ebanonet.com.br:25461/456123/456123/20694
+#EXTINF:-1,ESPN 2
+http://load.kudaplay.tv/aovivo/SD_ESPN_2/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,ESPN Extra HD
+http://load.kudaplay.tv/aovivo/HD_ESPN_EXTRA/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,ESPN FHD
+http://load.kudaplay.tv/aovivo/FHD_ESPN/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,FX HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_FX_ALTER/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Fish TV
+http://load.kudaplay.tv/aovivo/SD_FISH_TV/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Fish TV HD
+http://load.kudaplay.tv/aovivo/HD_FISH_TV/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Fox Life FHD
+http://load.kudaplay.tv/aovivo/FHD_FOX_LIFE/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Fox Life HD
+http://load.kudaplay.tv/aovivo/HD_FOX_LIFE/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Fox Life HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_FOX_LIFE_ALTER/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Fox Premium 1 HD
+http://load.kudaplay.tv/aovivo/HD_FOX_PREMIUM_1/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Fox Premium 1 HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_FOX_PREMIUM_1_ALTER/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Fox Premium 2 HD
+http://load.kudaplay.tv/aovivo/HD_FOX_PREMIUM_2/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Fox Sports
+http://load.kudaplay.tv/aovivo/SD_FOX_SPORTS/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Fox Sports 2
+http://load.kudaplay.tv/aovivo/SD_FOX_SPORTS_2/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Fox Sports 2 FHD
+http://load.kudaplay.tv/aovivo/FHD_FOX_SPORTS_2/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Fox Sports 2 HD
+http://load.kudaplay.tv/aovivo/HD_FOX_SPORTS_2/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Fox Sports 2 HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_FOX_SPORTS_2_ALTER/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,GNT
+http://load.kudaplay.tv/aovivo/SD_GNT/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,GNT HD
+http://load.kudaplay.tv/aovivo/HD_GNT/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,GNT HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_GNT_ALTER/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Globo Brasilia
+http://load.kudaplay.tv/aovivo/SD_GLOBO_BRASILIA/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Globo Brasilia HD
+http://load.kudaplay.tv/aovivo/HD_GLOBO_BRASILIA/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Globo EPTV Campinas
+http://load.kudaplay.tv/aovivo/SD_GLOBO_EPTV_CAMPINAS/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Globo EPTV Campinas HD
+http://load.kudaplay.tv/aovivo/HD_GLOBO_EPTV_CAMPINAS/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Globo EPTV Central
+http://load.kudaplay.tv/aovivo/SD_GLOBO_EPTV_CENTRAL/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Globo EPTV Ribeirao Preto
+http://load.kudaplay.tv/aovivo/SD_GLOBO_RIBEIRAO_PRETO/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Globo EPTV Ribeirao Preto HD
+http://load.kudaplay.tv/aovivo/HD_GLOBO_RIBEIRAO_PRETO/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Globo EPTV Sao Carlos
+http://load.kudaplay.tv/aovivo/SD_GLOBO_SAO_CARLOS/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Globo FHD
+http://load.kudaplay.tv/aovivo/FHD_GLOBO_SP/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Globo InterTV Alto Litoral
+http://load.kudaplay.tv/aovivo/SD_GLOBO_INTERTV_ALTO_LITORAL/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Globo InterTV Grande Minas
+http://load.kudaplay.tv/aovivo/SD_GLOBO_INTERTV_GRANDE_MINAS/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Globo Minas
+http://load.kudaplay.tv/aovivo/SD_GLOBO_MINAS/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Globo Minas FHD
+http://load.kudaplay.tv/aovivo/FHD_GLOBO_MG/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Globo Minas HD
+http://load.kudaplay.tv/aovivo/HD_GLOBO_MINAS/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Globo NSC Joinville
+http://load.kudaplay.tv/aovivo/SD_GLOBO_NSC_JOINVILLE/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Globo Nordeste FHD
+http://load.kudaplay.tv/aovivo/FHD_GLOBO_NORDESTE/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Globo Nordeste HD
+http://load.kudaplay.tv/aovivo/HD_GLOBO_NORDESTE/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Globo RBS POA FHD
+http://load.kudaplay.tv/aovivo/FHD_GLOBO_RBS_POA/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Globo RBS POA HD
+http://load.kudaplay.tv/aovivo/HD_GLOBO_RBS_POA/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Globo RBS Porto Alegre
+http://load.kudaplay.tv/aovivo/SD_GLOBO_RBS_POA/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Globo RPC Paranaense FHD
+http://load.kudaplay.tv/aovivo/FHD_GLOBO_RPC_PARANAENSE/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Globo Rede Amazonica
+http://load.kudaplay.tv/aovivo/SD_GLOBO_AMAZONICA/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Globo Rio
+http://load.kudaplay.tv/aovivo/SD_GLOBO_RJ/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Globo Rio FHD
+http://load.kudaplay.tv/aovivo/FHD_GLOBO_RJ/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Globo Rio HD
+http://load.kudaplay.tv/aovivo/HD_GLOBO_RJ/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Globo TV Anhanguera Goiania
+http://load.kudaplay.tv/aovivo/SD_GLOBO_TV_ANHANGUERA_GO/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Globo TV Asa Branca
+http://load.kudaplay.tv/aovivo/SD_GLOBO_TV_ASA_BRANCA/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Globo TV Bahia
+http://load.kudaplay.tv/aovivo/SD_GLOBO_TV_BAHIA/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Globo TV Fronteira
+http://load.kudaplay.tv/aovivo/SD_GLOBO_TV_FRONTEIRA/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Globo TV Rio Sul
+http://load.kudaplay.tv/aovivo/SD_GLOBO_TV_RIO_SUL/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Globo TV Santa Cruz
+http://load.kudaplay.tv/aovivo/SD_GLOBO_TV_SANTA_CRUZ/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Globo TV Sudoeste
+http://load.kudaplay.tv/aovivo/SD_GLOBO_TV_SUDOESTE/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Globo TV TEM BAURU
+http://load.kudaplay.tv/aovivo/SD_GLOBO_TV_TEM_BAURU/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Globo TV TEM SOROCABA
+http://load.kudaplay.tv/aovivo/SD_GLOBO_TV_TEM_SOROCABA/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Globo TV Tem Itapetininga
+http://load.kudaplay.tv/aovivo/SD_GLOBO_TV_TEM_ITAPETININGA/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Globo TV Tribuna Santos
+http://load.kudaplay.tv/aovivo/SD_GLOBO_TV_TRIBUNA_SANTOS/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Globo TV Vanguarda SJC
+http://load.kudaplay.tv/aovivo/SD_GLOBO_TV_VANGUARDA_SJC/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Globo TV Vanguarda Taubate
+http://load.kudaplay.tv/aovivo/SD_GLOBO_TV_VANGUARDA_TAUBATE/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Globo TV Verdes Mares
+http://load.kudaplay.tv/aovivo/SD_GLOBO_VERDES_MARES/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Globo TV Verdes Mares HD
+http://load.kudaplay.tv/aovivo/HD_GLOBO_TV_VERDES_MARES/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Globo Verdes Mares FHD
+http://load.kudaplay.tv/aovivo/FHD_GLOBO_VERDES_MARES/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,GloboNews
+http://load.kudaplay.tv/aovivo/SD_GLOBO_NEWS/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,GloboNews FHD
+http://load.kudaplay.tv/aovivo/FHD_GLOBONEWS/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,GloboNews HD
+http://load.kudaplay.tv/aovivo/HD_GLOBONEWS/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,GloboNews HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_GLOBONEWS_ALTER/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Gloob
+http://load.kudaplay.tv/aovivo/SD_GLOOB/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Gloob HD
+http://load.kudaplay.tv/aovivo/HD_GLOOB/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Gloob HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_GLOOB_ALTER/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Gloobinho FHD
+http://load.kudaplay.tv/aovivo/FHD_GLOOBINHO/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Gloobinho HD
+http://load.kudaplay.tv/aovivo/HD_GLOOBINHO/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,HBO
+http://load.kudaplay.tv/aovivo/SD_HBO/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,HBO 2 HD
+http://load.kudaplay.tv/aovivo/HD_HBO_2/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,HBO 2 HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_HBO_2_ALTER/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,HBO FHD
+http://load.kudaplay.tv/aovivo/FHD_HBO/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,HBO Family
+http://load.kudaplay.tv/aovivo/SD_HBO_FAMILY/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,HBO Family FHD
+http://load.kudaplay.tv/aovivo/FHD_HBO_FAMILLY/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,HBO Family HD
+http://load.kudaplay.tv/aovivo/HD_HBO_FAMILY/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,HBO Family HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_HBO_FAMILLY_ALTER/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
 #EXTINF:-1,HBO HD
-http://painel.ebanonet.com.br:25461/456123/456123/6108
-#EXTINF:-1,NICK JR HD*
-http://painel.ebanonet.com.br:25461/456123/456123/20631
-#EXTINF:-1,PREMIERE CLUBES HD
-http://painel.ebanonet.com.br:25461/456123/456123/6089
-#EXTINF:-1,PREMIERE 2 HD
-http://painel.ebanonet.com.br:25461/456123/456123/6093
-#EXTINF:-1,RECORD HD
-http://painel.ebanonet.com.br:25461/456123/456123/7836
-#EXTINF:-1,RECORD HD*
-http://painel.ebanonet.com.br:25461/456123/456123/20571
-#EXTINF:-1,RECORD SD
-http://painel.ebanonet.com.br:25461/456123/456123/4423
-#EXTINF:-1,RECORD SP HD
-http://painel.ebanonet.com.br:25461/456123/456123/18168
-#EXTINF:-1,RECORD RJ HD
-http://painel.ebanonet.com.br:25461/456123/456123/25543
-#EXTINF:-1,RECORD NEWS HD
-http://painel.ebanonet.com.br:25461/456123/456123/10255
-#EXTINF:-1,RECORD NEWS SD
-http://painel.ebanonet.com.br:25461/456123/456123/6941
-#EXTINF:-1,REDE TV HD
-http://painel.ebanonet.com.br:25461/456123/456123/6940
-#EXTINF:-1,REDE TV SD
-http://painel.ebanonet.com.br:25461/456123/456123/4420
-#EXTINF:-1,SBT HD
-http://painel.ebanonet.com.br:25461/456123/456123/6889
-#EXTINF:-1,SBT HD*
-http://painel.ebanonet.com.br:25461/456123/456123/20554
-#EXTINF:-1,SBT SD
-http://painel.ebanonet.com.br:25461/456123/456123/4331
-#EXTINF:-1,SPACE HD
-http://painel.ebanonet.com.br:25461/456123/456123/6085
-#EXTINF:-1,SPACE HD*
-http://painel.ebanonet.com.br:25461/456123/456123/20532
-#EXTINF:-1,SPORTV 2 HD
-http://painel.ebanonet.com.br:25461/456123/456123/6084
-#EXTINF:-1,SPORTV 2 HD*
-http://painel.ebanonet.com.br:25461/456123/456123/20540
-#EXTINF:-1,SPORTV 2 SD
-http://painel.ebanonet.com.br:25461/456123/456123/4326
-#EXTINF:-1,SPORTV 3 HD*
-http://painel.ebanonet.com.br:25461/456123/456123/20536
-#EXTINF:-1,SPORTV HD*
-http://painel.ebanonet.com.br:25461/456123/456123/20544
-#EXTINF:-1,SPORTV SD*
-http://painel.ebanonet.com.br:25461/456123/456123/20545
-#EXTINF:-1,TNT HD
-http://painel.ebanonet.com.br:25461/456123/456123/6074
-#EXTINF:-1,TNT HD*
-http://painel.ebanonet.com.br:25461/456123/456123/20493
-#EXTINF:-1,TNT SERIES HD*
-http://painel.ebanonet.com.br:25461/456123/456123/20489
-#EXTINF:-1,TNT SERIES SD
-http://painel.ebanonet.com.br:25461/456123/456123/4311
-#EXTINF:-1,PREMIERE 3 HD
-http://painel.ebanonet.com.br:25461/456123/456123/6092
-#EXTINF:-1,PREMIERE 4 HD
-http://painel.ebanonet.com.br:25461/456123/456123/6091
-#EXTINF:-1,PREMIERE 7 HD
-http://painel.ebanonet.com.br:25461/456123/456123/10258
-#EXTINF:-1,PREMIERE 7 HD*
-http://painel.ebanonet.com.br:25461/456123/456123/20601
-#EXTINF:-1,Premiere Clubes HD [ ALTERNATIVO ]
-http://painel.ebanonet.com.br:25461/456123/456123/8191
+http://load.kudaplay.tv/aovivo/HD_HBO_1/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,HBO HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_HBO_ALTER/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,HBO Plus
+http://load.kudaplay.tv/aovivo/SD_HBO_PLUS/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,HBO Plus FHD
+http://load.kudaplay.tv/aovivo/FHD_HBO_PLUS/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,HBO Plus HD
+http://load.kudaplay.tv/aovivo/HD_HBO_PLUS/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,HBO Plus HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_HBO_PLUS_ALTER/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,HBO Signature
+http://load.kudaplay.tv/aovivo/SD_HBO_SINGNATURE/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,HBO Signature FHD
+http://load.kudaplay.tv/aovivo/FHD_HBO_SIGNATURE/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,HBO Signature HD
+http://load.kudaplay.tv/aovivo/HD_HBO_SIGNATURE/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,HBO Signature HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_HBO_SIGNATURE_ALTER/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,HUSTLER
+http://load.kudaplay.tv/aovivo/XXX_HUSTLER/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,History
+http://load.kudaplay.tv/aovivo/SD_HISTORY/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,RIT
+http://load.kudaplay.tv/aovivo/SD_RIT/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Record News HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_RECORDNEWS_ALTER/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Record RJ HD
+http://load.kudaplay.tv/aovivo/HD_RECORD_RJ/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,RedeTV!
+http://load.kudaplay.tv/aovivo/SD_REDETV/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,RedeTV! FHD
+http://load.kudaplay.tv/aovivo/FULLHD_REDETV/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,RedeTV! HD
+http://load.kudaplay.tv/aovivo/HD_REDETV/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,SCT
+http://load.kudaplay.tv/aovivo/XXX_SCT/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,SIC Internacional
+http://load.kudaplay.tv/aovivo/SD_SIC_INTERNACIONAL/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Sextreme
+http://load.kudaplay.tv/aovivo/SD_SEXTREME/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Sexy Hot
+http://load.kudaplay.tv/aovivo/SD_SEXYHOT/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Sexy Hot HD
+http://load.kudaplay.tv/aovivo/HD_SEXHOT/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Sony
+http://load.kudaplay.tv/aovivo/SD_SONY/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Sony FHD
+http://load.kudaplay.tv/aovivo/FHD_SONY/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Sony HD
+http://load.kudaplay.tv/aovivo/HD_SONY/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Sony HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_SONY_ALTER/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Space
+http://load.kudaplay.tv/aovivo/SD_SPACE/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,SporTV 2 FHD
+http://load.kudaplay.tv/aovivo/FHD_SPORTV_2/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,SporTV 2 HD
+http://load.kudaplay.tv/aovivo/HD_SPORTV_2/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,SporTV 2 HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_SPORTV_2_ALTER/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,SporTV 3
+http://load.kudaplay.tv/aovivo/SD_SPORTV_3/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,SporTV 3 FHD
+http://load.kudaplay.tv/aovivo/FHD_SPORTV_3/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,SporTV 3 HD
+http://load.kudaplay.tv/aovivo/HD_SPORTV_3/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,SporTV 3 HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_SPORTV_3_ALTER/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,SporTV FHD
+http://load.kudaplay.tv/aovivo/FHD_SPORTV_1/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,SporTV HD
+http://load.kudaplay.tv/aovivo/HD_SPORTV_1/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,SporTV HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_SPORTV_1_ALTER/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Studio Universal
+http://load.kudaplay.tv/aovivo/SD_STUDIO_UNIVERSAL/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Studio Universal FHD
+http://load.kudaplay.tv/aovivo/FHD_STUDIO_UNIVERSAL/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Syfy FHD
+http://load.kudaplay.tv/aovivo/FHD_SYFY/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Syfy HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_SYFY_ALTER/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,TBS
+http://load.kudaplay.tv/aovivo/SD_TBS/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,TBS FHD
+http://load.kudaplay.tv/aovivo/FHD_TBS/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,TBS HD
+http://load.kudaplay.tv/aovivo/HD_TBS/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,TBS HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_TBS_ALTER/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,TCM
+http://load.kudaplay.tv/aovivo/SD_TCM/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,TCM FHD
+http://load.kudaplay.tv/aovivo/FHD_TCM/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,TCM HD
+http://load.kudaplay.tv/aovivo/HD_TCM/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,TCM HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_TCM_ALTER/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,TLC
+http://load.kudaplay.tv/aovivo/SD_TLC/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,TLC HD
+http://load.kudaplay.tv/aovivo/HD_TLC/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,TNT HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_TNT_ALTER/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,TNT Series
+http://load.kudaplay.tv/aovivo/SD_TNT_SERIES/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,TV Aparecida
+http://load.kudaplay.tv/aovivo/SD_TV_APARECIDA/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,TV Brasil
+http://load.kudaplay.tv/aovivo/SD_TV_BRASIL/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,TV Camara
+http://load.kudaplay.tv/aovivo/SD_TV_CAMARA/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,TV Centro America
+http://load.kudaplay.tv/aovivo/SD_TV_CENTRO_AMERICA/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,TV Escola
+http://load.kudaplay.tv/aovivo/SD_TV_ESCOLA/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,TV Ratimbum
+http://load.kudaplay.tv/aovivo/SD_TV_RATIMBUM/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,TV Ratimbum HD
+http://load.kudaplay.tv/aovivo/HD_TV_RATIMBUM/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,TV Senado
+http://load.kudaplay.tv/aovivo/SD_TV_SENADO/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,TV Universal
+http://load.kudaplay.tv/aovivo/SD_UNIVERSAL/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,TV Universal FHD
+http://load.kudaplay.tv/aovivo/FHD_UNIVERSAL/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,TV Universal HD
+http://load.kudaplay.tv/aovivo/HD_UNIVERSAL/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,TV Universal HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_UNIVERSAL_ALTER/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,TVE
+http://load.kudaplay.tv/aovivo/SD_TVE/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Telecine Action
+http://load.kudaplay.tv/aovivo/SD_TC_ACTION/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Telecine Action FHD
+http://load.kudaplay.tv/aovivo/FHD_TC_ACTION/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Telecine Action HD
+http://load.kudaplay.tv/aovivo/HD_TC_ACTION/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Telecine Action HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_TC_ACTION_ALTER/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Telecine Cult
+http://load.kudaplay.tv/aovivo/SD_TC_CULT/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Telecine Cult FHD
+http://load.kudaplay.tv/aovivo/FHD_TC_CULT/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Telecine Fun
+http://load.kudaplay.tv/aovivo/SD_TC_FUN/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Telecine Fun FHD
+http://load.kudaplay.tv/aovivo/FHD_TC_FUN/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Telecine Fun HD
+http://load.kudaplay.tv/aovivo/HD_TC_FUN/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Telecine Fun HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_TC_FUN_ALTER/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Telecine Pipoca
+http://load.kudaplay.tv/aovivo/SD_TC_PIPOCA/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Telecine Pipoca FHD
+http://load.kudaplay.tv/aovivo/FHD_TC_PIPOCA/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Telecine Pipoca HD
+http://load.kudaplay.tv/aovivo/HD_TC_PIPOCA/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Telecine Pipoca HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_TC_PIPOCA_ALTER/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Telecine Premium
+http://load.kudaplay.tv/aovivo/SD_TC_PREMIUM/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Telecine Premium FHD
+http://load.kudaplay.tv/aovivo/FHD_TC_PREMIUM/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Telecine Premium HD
+http://load.kudaplay.tv/aovivo/HD_TC_PREMIUM/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Telecine Premium HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_TC_PREMIUM_ALTER/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Telecine Touch
+http://load.kudaplay.tv/aovivo/SD_TC_TOUCH/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Telecine Touch FHD
+http://load.kudaplay.tv/aovivo/FHD_TC_TOUCH/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Telecine Touch HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_TC_TOUCH_ALTER/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Terra Viva
+http://load.kudaplay.tv/aovivo/SD_TERRA_VIVA/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Tooncast
+http://load.kudaplay.tv/aovivo/SD_TOONCAST/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Tooncast HD
+http://load.kudaplay.tv/aovivo/HD_TOONCAST/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Trutv
+http://load.kudaplay.tv/aovivo/SD_TRUTV/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Trutv HD
+http://load.kudaplay.tv/aovivo/HD_TRUTV/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,VH1
+http://load.kudaplay.tv/aovivo/SD_VH1/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,VH1 HD
+http://load.kudaplay.tv/aovivo/HD_VH1/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,VH1 HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_VH1_ALTER/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,VH1 Megahits
+http://load.kudaplay.tv/aovivo/SD_VH1_MEGAHITS/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,VIVID RED
+http://load.kudaplay.tv/aovivo/XXX_VIVIDRED/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Venus
+http://load.kudaplay.tv/aovivo/SD_VENUS/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Venus HD
+http://load.kudaplay.tv/aovivo/HD_VENUS/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Viva
+http://load.kudaplay.tv/aovivo/SD_VIVA/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Viva HD
+http://load.kudaplay.tv/aovivo/HD_VIVA/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Viva HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_VIVA_ALTER/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Warner Channel
+http://load.kudaplay.tv/aovivo/SD_WARNER/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Warner Channel FHD
+http://load.kudaplay.tv/aovivo/FHD_WARNER/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Warner Channel HD
+http://load.kudaplay.tv/aovivo/HD_WARNER/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Warner Channel HD [Alter]
+http://load.kudaplay.tv/aovivo/HD_WARNER_ALTER/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Woohoo
+http://load.kudaplay.tv/aovivo/SD_WOOHOO/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Woohoo HD
+http://load.kudaplay.tv/aovivo/HD_WOOHOO/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,Zoomoo HD
+http://load.kudaplay.tv/aovivo/HD_ZOOMOO/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
+#EXTINF:-1,i-Sat
+http://load.kudaplay.tv/aovivo/SD_ISAT/video.m3u8?token=6ef314496d393bdc31d0fc26bfa1d688
