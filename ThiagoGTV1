@@ -1,1186 +1,958 @@
 #EXTM3U
- 
-#PLAYLISTV: pltv-logo="https://s15.postimg.cc/nmizpp2qj/Slide1.jpg" pltv-name="JuniorTVOnline" pltv-description=TV ONLINE para PlaylisTV/IPTV" pltv-cover="https://s15.postimg.cc/nmizpp2qj/Slide1.jpg" pltv-author="JuniorTVOnline" pltv-site="" pltv-email="JuniorTVOnline" pltv-phone="JuniorTVOnline.
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MYimBe1.png" group-title="FILMES E SÉRIES", A&E SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31918
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MYimBe1.png" group-title="FILMES E SÉRIES", A&E SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38021
 
+#EXTINF:-1 tvg-logo="http://printv.esy.es/server/Agro%20Brasil%20TV.png" group-title="ABERTOS", Agro Brasil SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/37883
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l4mgJuQ.png" group-title="ESPORTES", All Sports TV SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31854
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GI4Y1kE.png" group-title="FILMES E SÉRIES", AMC SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31915
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GI4Y1kE.png" group-title="FILMES E SÉRIES", AMC SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38020
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FSpBdys.png" group-title="DOCUMENTÁRIOS", Animal Planet SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31793
 
+#EXTINF:-1 tvg-logo="http://printv.esy.es/server/Animal%20Planet.png" group-title="DOCUMENTÁRIOS", Animal Planet SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38019
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D8TFbQu.png" group-title="FILMES E SÉRIES", Arte 1 SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31923
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CANAIS JuniorTV",A FAZENDA 11 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TXytkc3.png" group-title="FILMES E SÉRIES", AXN SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31921
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1484
-#EXTINF:-1,A FAZENDA 11 SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TXytkc3.png" group-title="FILMES E SÉRIES", AXN SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38018
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1485
-#EXTINF:-1,EIPLUS 2 HD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k2Nuw1J.png" group-title="INFANTIL", Baby TV SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32080
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1486
-#EXTINF:-1,EIPLUS 2 SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k2Nuw1J.png" group-title="INFANTIL", Baby TV SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/38017
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1487
-#EXTINF:-1,EIPLUS HD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EFikBBd.png" group-title="ABERTOS", Band Campinas SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38167
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1488
-#EXTINF:-1,EIPLUS SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EFikBBd.png" group-title="ABERTOS", Band SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/37737
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1489
-#EXTINF:-1,A&E SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EFikBBd.png" group-title="ABERTOS", Band SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38016
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1490
-#EXTINF:-1,AMC SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SZ9PKal.png" group-title="NOTÍCIAS", Band News SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32096
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1491
-#EXTINF:-1,ANIMAL PLANET SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SZ9PKal.png" group-title="NOTÍCIAS", Band News SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38015
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1492
-#EXTINF:-1,ARTE1 *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4qhayiv.png" group-title="ESPORTES", Band Sports SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31853
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1493
-#EXTINF:-1,ARTE1 SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4qhayiv.png" group-title="ESPORTES", Band Sports SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38010
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1494
-#EXTINF:-1,AXN FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Yjz9j9.png" group-title="INFANTIL", Boomerang SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32078
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1495
-#EXTINF:-1,AXN SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Yjz9j9.png" group-title="INFANTIL", Boomerang SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38009
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1496
-#EXTINF:-1,AGRO CANAL SD *
+#EXTINF:-1 tvg-logo="http://printv.esy.es/server/Canal%20Brasil.png" group-title="ABERTOS", Canal Brasil SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38103
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1497
-#EXTINF:-1,BABY TV SD *
+#EXTINF:-1 tvg-logo="http://infovaletelecom.com.br/logo_tvs/canal_saude.png" group-title="ABERTOS", Canal Saúde SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38229
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1498
-#EXTINF:-1,BAND NEWS SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H9WliIY.png" group-title="INFANTIL", Cartoon Network SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32075
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1499
-#EXTINF:-1,BAND SP SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H9WliIY.png" group-title="INFANTIL", Cartoon Network SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38008
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1500
-#EXTINF:-1,BAND SP HD *
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RELIGIOSOS", CEAK TV Espirita SP SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32154
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1501
-#EXTINF:-1,BAND SP HD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tcOlv0G.png" group-title="FILMES E SÉRIES", Cine Sky 1 SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31902
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1502
-#EXTINF:-1,BAND SPORTS SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tcOlv0G.png" group-title="FILMES E SÉRIES", Cine Sky 3 SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31900
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1503
-#EXTINF:-1,BIS SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tcOlv0G.png" group-title="FILMES E SÉRIES", Cine Sky 4 SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/37554
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1504
-#EXTINF:-1,BIS HD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tcOlv0G.png" group-title="FILMES E SÉRIES", Cine Sky 5 SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31899
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1505
-#EXTINF:-1,BOOMERANG SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XnqFREo.png" group-title="FILMES E SÉRIES", Cinemax SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31905
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1506
-#EXTINF:-1,CARTOON NETWORK FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XnqFREo.png" group-title="FILMES E SÉRIES", Cinemax SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38007
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1507
-#EXTINF:-1,CANAL BRASIL HD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WPmcn2I.png" group-title="ESPORTES", Combate SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31850
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1508
-#EXTINF:-1,CANAL BRASIL SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WPmcn2I.png" group-title="ESPORTES", Combate SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38011
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1509
-#EXTINF:-1,CNT SP*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lVnskSo.png" group-title="VARIEDADES / MÚSICA", Comedy Central SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/37558
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1510
-#EXTINF:-1,CANAL DO BOI SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lVnskSo.png" group-title="VARIEDADES / MÚSICA", Comedy Central SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32517
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1512
-#EXTINF:-1,CINE+ SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lVnskSo.png" group-title="VARIEDADES / MÚSICA", Comedy Central SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38006
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1513
-#EXTINF:-1,CANAL SONY FHD *
+#EXTINF:-1 tvg-logo="http://printv.esy.es/server/Curta%21.png" group-title="VARIEDADES / MÚSICA", Curta! SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38005
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1514
-#EXTINF:-1,SONY SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hIiJnWz.png" group-title="DOCUMENTÁRIOS", Discovery Channel SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31790
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1515
-#EXTINF:-1,CINEMAX SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hIiJnWz.png" group-title="DOCUMENTÁRIOS", Discovery Channel SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38004
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1516
-#EXTINF:-1,CINEMAX FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eswjez3.png" group-title="DOCUMENTÁRIOS", Discovery Civilization SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38003
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1517
-#EXTINF:-1,CNN ESPANHOL SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JF2Y1ln.png" group-title="DOCUMENTÁRIOS", Discovery Home&Health SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31782
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1518
-#EXTINF:-1,CNN INTERNACIONAL SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JF2Y1ln.png" group-title="DOCUMENTÁRIOS", Discovery Home&Health SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38002
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1519
-#EXTINF:-1,COMBATE HD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GHBV1tZ.png" group-title="INFANTIL", Discovery Kids SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/37733
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1520
-#EXTINF:-1,COMBATE SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GHBV1tZ.png" group-title="INFANTIL", Discovery Kids SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38001
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1521
-#EXTINF:-1,COMEDY CENTRAL SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JdmLUwg.png" group-title="DOCUMENTÁRIOS", Discovery Science SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38000
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1522
-#EXTINF:-1,CURTA! SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mEVTqVO.png" group-title="DOCUMENTÁRIOS", Discovery Theater SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/37999
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1523
-#EXTINF:-1,DAZN FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J67CNHZ.png" group-title="DOCUMENTÁRIOS", Discovery Turbo SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31774
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1524
-#EXTINF:-1,DAZN SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J67CNHZ.png" group-title="DOCUMENTÁRIOS", Discovery Turbo SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/37998
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1525
-#EXTINF:-1,DISCOVERY CHANNEL FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dKdL84k.png" group-title="DOCUMENTÁRIOS", Discovery World SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/37997
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1526
-#EXTINF:-1,DISCOVERY CHANNEL SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hx4YAVE.png" group-title="INFANTIL", Disney Channel SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32070
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1527
-#EXTINF:-1,DISCOVERY H&H SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hx4YAVE.png" group-title="INFANTIL", Disney Channel SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/37996
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1528
-#EXTINF:-1,DISCOVERY KIDS SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tg2e85N.png" group-title="INFANTIL", Disney Jr SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32067
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1529
-#EXTINF:-1,DISCOVERY TURBO FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tg2e85N.png" group-title="INFANTIL", Disney Jr SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/37995
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1530
-#EXTINF:-1,.Discovery Civilization SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B7Txwb8.png" group-title="INFANTIL", Disney XD SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/37994
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1531
-#EXTINF:-1,.Discovery Science SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B7Txwb8.png" group-title="INFANTIL", Disney XD SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32064
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1532
-#EXTINF:-1,.Discovery Theater SD
+#EXTINF:-1 tvg-logo="http://printv.esy.es/server/E%21%20Entertainment.png" group-title="ESPORTES", E! SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38031
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1534
-#EXTINF:-1,.Discovery World SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y5X2QWt.png" group-title="ESPORTES", ESPN 2 SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38033
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1535
-#EXTINF:-1,DISNEY CHANNEL HD **
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mNQCw2n.png" group-title="ESPORTES", ESPN Brasil SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31837
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1536
-#EXTINF:-1,DISNEY CHANNEL HD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mNQCw2n.png" group-title="ESPORTES", ESPN Brasil SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38034
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1537
-#EXTINF:-1,DISNEY CHANNEL SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XkuHJvE.png" group-title="ESPORTES", ESPN Extra SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31834
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1538
-#EXTINF:-1,DISNEY JUNIOR HD **
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UdsKz3M.png" group-title="ESPORTES", ESPN SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31844
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1539
-#EXTINF:-1,DISNEY JUNIOR HD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UdsKz3M.png" group-title="ESPORTES", ESPN SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38032
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1540
-#EXTINF:-1,DISNEY JUNIOR SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qS8OedV.png" group-title="ESPORTES", Fish TV SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31828
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1541
-#EXTINF:-1,DISNEY XD HD **
+#EXTINF:-1 tvg-logo="http://printv.esy.es/server/Agro%20Brasil%20TV.png" group-title="ABERTOS", Agro Brasil SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/37883
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1542
-#EXTINF:-1,DISNEY XD HD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mmYRl9S.png" group-title="VARIEDADES / MÚSICA", Food Network SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/37569
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1543
-#EXTINF:-1,DISNEY XD SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mmYRl9S.png" group-title="VARIEDADES / MÚSICA", Food Network SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32603
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1544
-#EXTINF:-1,E! SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mmYRl9S.png" group-title="VARIEDADES / MÚSICA", Food Network SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38039
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1545
-#EXTINF:-1,EI HD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OB6fAsa.png" group-title="FILMES E SÉRIES", Fox SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31891
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1546
-#EXTINF:-1,EI SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OB6fAsa.png" group-title="FILMES E SÉRIES", Fox SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38040
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1547
-#EXTINF:-1,ESPORTE INTERATIVO HD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GqXQdA6.png" group-title="FILMES E SÉRIES", Fox Life SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/37570
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1548
-#EXTINF:-1,ESPORTE INTERATIVO SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GqXQdA6.png" group-title="FILMES E SÉRIES", Fox Life SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/37571
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1549
-#EXTINF:-1,ESPN SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GqXQdA6.png" group-title="FILMES E SÉRIES", Fox Life SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38041
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1550
-#EXTINF:-1,ESPN FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O45MhbM.png" group-title="FILMES E SÉRIES", Fox Premium 1 SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38042
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1551
-#EXTINF:-1,ESPN 2 SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O45MhbM.png" group-title="FILMES E SÉRIES", Fox Premium 2 SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38043
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1552
-#EXTINF:-1,ESPN 2 FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CYW9MdS.png" group-title="ESPORTES", Fox Sports 2 SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31825
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1553
-#EXTINF:-1,ESPN BRASIL SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CYW9MdS.png" group-title="ESPORTES", Fox Sports 2 SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38036
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1554
-#EXTINF:-1,ESPN BRASIL HD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dLWrTma.png" group-title="ESPORTES", Fox Sports SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31826
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1555
-#EXTINF:-1,ESPN BRASIL FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dLWrTma.png" group-title="ESPORTES", Fox Sports SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38035
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1556
-#EXTINF:-1,ESPN EXTRA SD *
+#EXTINF:-1 tvg-logo="http://printv.esy.es/server/Futura.png" group-title="ABERTOS", Futura SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38044
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1557
-#EXTINF:-1,ESPN EXTRA HD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EWKsvAH.png" group-title="FILMES E SÉRIES", FX SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31888
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1558
-#EXTINF:-1,ESPN EXTRA FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EWKsvAH.png" group-title="FILMES E SÉRIES", FX SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38111
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1559
-#EXTINF:-1,FILM & ARTS SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo Alto Litoral SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31957
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1560
-#EXTINF:-1,FISH TV SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/llutW4n.png" group-title="REDE GLOBO", Globo Asa Branca SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31956
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1562
-#EXTINF:-1,FOOD NETWORK SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo Bahia SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32006
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1563
-#EXTINF:-1,FOX SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo Bahia SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38166
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1565
-#EXTINF:-1,FOX FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo Bauru SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31955
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1566
-#EXTINF:-1,FOX LIFE SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo Brasilia SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32007
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1567
-#EXTINF:-1,.Fox Premium 1 SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo Brasilia SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32966
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1569
-#EXTINF:-1,.Fox Premium 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo Brasilia SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38153
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1570
-#EXTINF:-1,.Fox Premium 2 SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo Cabugi SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31954
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1572
-#EXTINF:-1,.Fox Premium 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo Centro America Cuiaba SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/37551
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1573
-#EXTINF:-1,FX SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FkQ9MVV.png" group-title="REDE GLOBO", Globo EPTV Campinas SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31989
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1575
-#EXTINF:-1,FX FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FkQ9MVV.png" group-title="REDE GLOBO", Globo EPTV Campinas SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32962
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1576
-#EXTINF:-1,FOX SPORTS 2 FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FkQ9MVV.png" group-title="REDE GLOBO", Globo EPTV Campinas SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38149
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1577
-#EXTINF:-1,FOX SPORTS 2 SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FkQ9MVV.png" group-title="REDE GLOBO", Globo EPTV Central SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31953
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1578
-#EXTINF:-1,FOX SPORTS 2 SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FkQ9MVV.png" group-title="REDE GLOBO", Globo EPTV Ribeirão Preto SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31951
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1579
-#EXTINF:-1,FOX SPORTS SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FkQ9MVV.png" group-title="REDE GLOBO", Globo EPTV Ribeirão Preto SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32964
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1580
-#EXTINF:-1,FOX SPORTS FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FkQ9MVV.png" group-title="REDE GLOBO", Globo EPTV Ribeirão Preto SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38148
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1581
-#EXTINF:-1,FUTURA HD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FkQ9MVV.png" group-title="REDE GLOBO", Globo EPTV São Carlos SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31965
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1582
-#EXTINF:-1,FUTURA SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FkQ9MVV.png" group-title="REDE GLOBO", Globo EPTV São Carlos SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32963
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1583
-#EXTINF:-1,GLOBO SP *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FkQ9MVV.png" group-title="REDE GLOBO", Globo EPTV Sul Minas SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31950
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1584
-#EXTINF:-1,GLOBO SP SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aC1IxHa.png" group-title="REDE GLOBO", Globo Fronteira SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31949
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1585
-#EXTINF:-1,GLOBO SP HD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zQUgrtX.png" group-title="REDE GLOBO", Globo Gazeta ES SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31948
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1586
-#EXTINF:-1,GLOBO SP FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo Goiania SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31947
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1587
-#EXTINF:-1,GLOBO MINAS SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo Grande Minas SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31946
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1588
-#EXTINF:-1,GLOBO MINAS HD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nEakoTR.png" group-title="REDE GLOBO", Globo Integração SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31945
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1589
-#EXTINF:-1,GLOBO BRASILIA SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo inter TV Cabugi SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32961
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1590
-#EXTINF:-1,GLOBO BRASILIA HD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo Inter TV Cabugi SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38146
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1591
-#EXTINF:-1,GLOBO EPTV RIBEIRÃƒO PRETO SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo Itapetininga SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31944
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1592
-#EXTINF:-1,GLOBO EPTV SÃƒO CARLOS SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo Manaus SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31942
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1593
-#EXTINF:-1,GLOBO EPTV CAMPINAS SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo Minas SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31941
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1594
-#EXTINF:-1,GLOBO INTER TV CABUGI SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo Minas SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32968
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1595
-#EXTINF:-1,GLOBO TV TEM SOROCABA *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo Minas SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38137
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1596
-#EXTINF:-1,GLOBO NEWS SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo Mirante Cocais SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31940
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1597
-#EXTINF:-1,GLOBO NEWS HD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t7ievTn.png" group-title="NOTÍCIAS", Globo News SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/37763
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1598
-#EXTINF:-1,GLOBO NEWS FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t7ievTn.png" group-title="NOTÍCIAS", Globo News SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32959
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1599
-#EXTINF:-1,GLOBO NORDESTE SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t7ievTn.png" group-title="NOTÍCIAS", Globo News SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38045
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1600
-#EXTINF:-1,GLOBO NORDESTE HD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo Nordeste SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31998
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1601
-#EXTINF:-1,GLOBO RBS PORTO ALEGRE SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo Nordeste SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32957
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1602
-#EXTINF:-1,GLOBO REDE AMAZÃ”NICA SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo Nordeste SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38138
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1603
-#EXTINF:-1,GLOBO REDE AMAZONICA HD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo NSC Blumenau SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31939
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1604
-#EXTINF:-1,GLOBO RIO SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NKD5EmJ.png" group-title="REDE GLOBO", Globo NSC Joinville SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31938
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1605
-#EXTINF:-1,GLOBO RIO HD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C3ZBhwh.png" group-title="REDE GLOBO", Globo RBS TV POA SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31936
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1606
-#EXTINF:-1,GLOBO RPC TV CURITIBA SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C3ZBhwh.png" group-title="REDE GLOBO", Globo RBS TV POA SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32955
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1607
-#EXTINF:-1,GLOBO SJRP SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo Rede Amazônica SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32954
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1608
-#EXTINF:-1,GLOBO TV TRIBUNA SANTOS SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0u1k725.png" group-title="REDE GLOBO", Globo Rio Sul SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31935
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1609
-#EXTINF:-1,GLOBO TV ANHANGUERA GOIÃ‚NIA SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo RJ SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31995
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1610
-#EXTINF:-1,GLOBO TV BAHIA SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo RJ SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32952
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1611
-#EXTINF:-1,GLOBO TV CENTRO AMÃ‰RICA CUIBÃ SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo RJ SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38155
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1612
-#EXTINF:-1,GLOBO TV TEM BAURU SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5pKGA6b.png" group-title="REDE GLOBO", Globo RPC TV Curitiba SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31971
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1613
-#EXTINF:-1,GLOBO TV VANGUARDA SÃƒO JOSÃ‰ DOS CAMPOS SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5pKGA6b.png" group-title="REDE GLOBO", Globo RPC TV Curitiba SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32950
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1614
-#EXTINF:-1,GLOOB HD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo Santa Cruz SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31932
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1615
-#EXTINF:-1,GLOOB SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo Sergipe SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31931
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1616
-#EXTINF:-1,GLOOBINHO HD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo Serra Mar SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31929
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1617
-#EXTINF:-1,GLOOBINHO SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo SJRP SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31933
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1618
-#EXTINF:-1,GNT HD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo SJRP SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32949
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1619
-#EXTINF:-1,GNT SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo Sorocaba SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31928
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1620
-#EXTINF:-1,HBO FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo SP SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/37814
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1621
-#EXTINF:-1,.HBO HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo SP SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31992
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1622
-#EXTINF:-1,HBO SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo SP SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32971
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1623
-#EXTINF:-1,HBO2 FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo SP SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32972
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1624
-#EXTINF:-1,.HBO 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo Sudoeste SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31927
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1625
-#EXTINF:-1,HBO 2 SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo Tribuna Santos SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31926
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1626
-#EXTINF:-1,HBO FAMILY FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo TV Anhanguera Goiânia SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32947
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1627
-#EXTINF:-1,.HBO Family HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo TV Bahia SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32946
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1628
-#EXTINF:-1,HBO FAMILY SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo Centro América SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38142
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1629
-#EXTINF:-1,HBO+ FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo TV Centro América Cuibá SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32945
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1630
-#EXTINF:-1,HBO+ HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo TV TEM Bauru SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32944
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1631
-#EXTINF:-1,HBO+ *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo TV TEM Bauru SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38165
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1632
-#EXTINF:-1,HBO SIGNATURE FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo TV TEM Sorocaba SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32960
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1633
-#EXTINF:-1,.HBO Signature HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo TV TEM Sorocaba SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38164
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1634
-#EXTINF:-1,HBO SIGNATURE SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo TV Tribuna Santos SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32948
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1635
-#EXTINF:-1,H2 SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo TV Tribuna Santos SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38163
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1636
-#EXTINF:-1,ID *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo TV Vanguarda São José Dos Campos SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32943
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1638
-#EXTINF:-1,INTERNATIONAL CHAMPIONS CUP SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo TV Vanguarda São José Dos Campos SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38162
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1639
-#EXTINF:-1,LIFETIME SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0P8Q1hd.png" group-title="REDE GLOBO", Globo Vanguarda S.J Campos SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31925
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1640
-#EXTINF:-1,MAIS GLOBOSAT HD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0P8Q1hd.png" group-title="REDE GLOBO", Globo Vanguarda Taubate SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31924
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1641
-#EXTINF:-1,MAIS GLOBOSAT SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo Verdes Mares Fortaleza SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/37553
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1642
-#EXTINF:-1,MAX FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2RRYLDc.png" group-title="REDE GLOBO", Globo Verdes Mares SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38161
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1643
-#EXTINF:-1,MAX SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r8fmJ82.png" group-title="INFANTIL", Gloob SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32059
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1644
-#EXTINF:-1,MAX PRIME FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r8fmJ82.png" group-title="INFANTIL", Gloob SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38117
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1645
-#EXTINF:-1,MAX PRIME SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i4wkYx9.png" group-title="INFANTIL", Gloobinho SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32062
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1646
-#EXTINF:-1,MAX UP FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uS0lrJB.png" group-title="VARIEDADES / MÚSICA", GNT SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32297
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1647
-#EXTINF:-1,MAX UP SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uS0lrJB.png" group-title="VARIEDADES / MÚSICA", GNT SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38131
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1648
-#EXTINF:-1,MEGAPIX FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WTr8vab.png" group-title="NOTÍCIAS", GV News ES SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32087
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1649
-#EXTINF:-1,MEGAPIX SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b5E2WSk.png" group-title="DOCUMENTÁRIOS", H2 SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31769
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1650
-#EXTINF:-1,MTV SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y3grVzw.png" group-title="HBO", HBO SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38108
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1651
-#EXTINF:-1,MULTISHOW HD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VNGvD4X.png" group-title="HBO", HBO 2 SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32033
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1652
-#EXTINF:-1,MULTISHOW FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VNGvD4X.png" group-title="HBO", HBO 2 SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38109
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1653
-#EXTINF:-1,MULTISHOW SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2v8w0ef.png" group-title="HBO", HBO Family SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32030
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1654
-#EXTINF:-1,MUSIC BOX BRAZIL SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2v8w0ef.png" group-title="HBO", HBO Family SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38107
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1655
-#EXTINF:-1,NATGEO KIDS SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zer3Zpn.png" group-title="HBO", HBO Plus SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32027
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1656
-#EXTINF:-1,NATGEO WILD SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zer3Zpn.png" group-title="HBO", HBO Plus SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38106
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1658
-#EXTINF:-1,NATGEO FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3bQUcLm.png" group-title="HBO", HBO Signature SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32022
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1659
-#EXTINF:-1,NATIONAL GEOGRAPHIC SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3bQUcLm.png" group-title="HBO", HBO Signature SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38046
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1660
-#EXTINF:-1,NICK JR SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JaaXRWZ.png" group-title="DOCUMENTÁRIOS", History Channel SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38047
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1661
-#EXTINF:-1,NICKELODEON SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JaaXRWZ.png" group-title="DOCUMENTÁRIOS", History Channel SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31767
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1662
-#EXTINF:-1,OFF SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iTya3Vq.png" group-title="DOCUMENTÁRIOS", Lifetime SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38049
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1663
-#EXTINF:-1,OFF HD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f4Inuw2.png" group-title="REDE GLOBO", Mais GloboSat SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/37713
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1664
-#EXTINF:-1,PARAMOUNT CHANNEL SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f4Inuw2.png" group-title="REDE GLOBO", Mais GloboSat SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38127
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1665
-#EXTINF:-1,PLAYTV SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vqlXQbx.png" group-title="FILMES E SÉRIES", Max SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32019
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1666
-#EXTINF:-1,PLAYBOY SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vqlXQbx.png" group-title="FILMES E SÉRIES", Max SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38051
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1667
-#EXTINF:-1,PLAYKIDS SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oINud8w.png" group-title="FILMES E SÉRIES", Max Prime SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32016
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1668
-#EXTINF:-1,PREMIERE 2 SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oINud8w.png" group-title="FILMES E SÉRIES", Max Prime SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38050
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1669
-#EXTINF:-1,PREMIERE 3 SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UXGC3bv.png" group-title="FILMES E SÉRIES", Max Up SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32011
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1670
-#EXTINF:-1,PREMIERE 3 HD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UXGC3bv.png" group-title="FILMES E SÉRIES", Max Up SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38052
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1671
-#EXTINF:-1,PREMIERE 4 SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BtT5gnN.png" group-title="FILMES E SÉRIES", Megapix SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31884
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1672
-#EXTINF:-1,PREMIERE 4 HD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BtT5gnN.png" group-title="FILMES E SÉRIES", Megapix SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38053
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1673
-#EXTINF:-1,PREMIERE 5 SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sU3aNtp.png" group-title="VARIEDADES / MÚSICA", MTV SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/37714
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1674
-#EXTINF:-1,PREMIERE 6 SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sU3aNtp.png" group-title="VARIEDADES / MÚSICA", MTV SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32529
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1675
-#EXTINF:-1,PREMIERE 7 SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sU3aNtp.png" group-title="VARIEDADES / MÚSICA", MTV SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38055
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1676
-#EXTINF:-1,PREMIERE 8 SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2tdPDQm.png" group-title="VARIEDADES / MÚSICA", Multishow SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/37715
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1677
-#EXTINF:-1,PREMIERE CLUBES FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2tdPDQm.png" group-title="VARIEDADES / MÚSICA", Multishow SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32299
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1678
-#EXTINF:-1,PREMIERE CLUBES HD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2tdPDQm.png" group-title="VARIEDADES / MÚSICA", Multishow SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38058
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1679
-#EXTINF:-1,PREMIERE CLUBES SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g8AfcMb.png" group-title="VARIEDADES / MÚSICA", Music Box Brazil SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32300
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1680
-#EXTINF:-1,TELECINE ACTION FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vy9doOf.png" group-title="DOCUMENTÁRIOS", NatGeo SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/37565
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1681
-#EXTINF:-1,PREMIERE 2 FHD **
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TzONFTx.png" group-title="INFANTIL", NatGeo Kids SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32055
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1682
-#EXTINF:-1,PREMIERE 3 FHD **
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TzONFTx.png" group-title="INFANTIL", NatGeo Kids SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38057
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1683
-#EXTINF:-1,PREMIERE 4 FHD **
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VqaCFR4.png" group-title="DOCUMENTÁRIOS", NatGeo Wild SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31761
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1684
-#EXTINF:-1,PREMIERE 5 FHD **
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VqaCFR4.png" group-title="DOCUMENTÁRIOS", NatGeo Wild Sd³
+http://inovattiontv.com:8080/ailtonadm/admuser/38056
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1685
-#EXTINF:-1,PREMIERE 6 FHD **
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fcicPJ5.png" group-title="NOTÍCIAS", NHK SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/37764
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1686
-#EXTINF:-1,RECORD BELEM SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xaWxdfH.png" group-title="INFANTIL", Nick Jr SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32052
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1687
-#EXTINF:-1,RECORD BRASILIA HD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xaWxdfH.png" group-title="INFANTIL", Nick Jr SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38060
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1688
-#EXTINF:-1,RECORD BRASILIA SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qd7cWnd.png" group-title="INFANTIL", Nickelodeon SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32049
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1689
-#EXTINF:-1,RECORD ITAPOAN HD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qd7cWnd.png" group-title="INFANTIL", Nickelodeon SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38116
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1690
-#EXTINF:-1,RECORD ITAPOAN SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pnno7SN.png" group-title="RELIGIOSOS", Novo Tempo SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32148
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1691
-#EXTINF:-1,RECORD MINAS HD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1q5BvWY.png" group-title="ESPORTES", OFF SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31810
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1692
-#EXTINF:-1,RECORD MINAS SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1q5BvWY.png" group-title="ESPORTES", OFF SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38061
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1693
-#EXTINF:-1,RECORD GOIAS SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VpSGYOm.png" group-title="FILMES E SÉRIES", Paramount SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31881
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1694
-#EXTINF:-1,RECORD NEWS HD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VpSGYOm.png" group-title="FILMES E SÉRIES", Paramount SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38062
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1695
-#EXTINF:-1,RECORD NEWS SD *
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES / MÚSICA", PLAY TV SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/37722
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1696
-#EXTINF:-1,RECORD RIO HD *
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES / MÚSICA", POLISHOP TV SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/37716
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1697
-#EXTINF:-1,RECORD RIO SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mJjmprV.png" group-title="PREMIERE", Premiere Clubes SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32118
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1698
-#EXTINF:-1,RECORD RS HD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mJjmprV.png" group-title="PREMIERE", Premiere Clubes SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38124
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1699
-#EXTINF:-1,RECORD RS SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mJjmprV.png" group-title="PREMIERE", Premiere 2 SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32115
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1700
-#EXTINF:-1,RECORD SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mJjmprV.png" group-title="PREMIERE", Premiere 2 SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38123
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1701
-#EXTINF:-1,RECORD HD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mJjmprV.png" group-title="PREMIERE", Premiere 3 SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32112
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1702
-#EXTINF:-1,REDETV FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mJjmprV.png" group-title="PREMIERE", Premiere 3 SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38225
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1703
-#EXTINF:-1,REDE PAI ETERNO SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mJjmprV.png" group-title="PREMIERE", Premiere 4 SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32109
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1704
-#EXTINF:-1,.Rede Vida SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mJjmprV.png" group-title="PREMIERE", Premiere 4 SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38224
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1705
-#EXTINF:-1,.Rede Vida HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mJjmprV.png" group-title="PREMIERE", Premiere 5 SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32106
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1706
-#EXTINF:-1,SBT HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mJjmprV.png" group-title="PREMIERE", Premiere 5 SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38223
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1707
-#EXTINF:-1,.SBT SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mJjmprV.png" group-title="PREMIERE", Premiere 6 SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32103
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1708
-#EXTINF:-1,SBT GOIANIA HD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mJjmprV.png" group-title="PREMIERE", Premiere 6 SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38222
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1709
-#EXTINF:-1,SBT PERNAMBUCO HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mJjmprV.png" group-title="PREMIERE", Premiere 7 SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32100
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1710
-#EXTINF:-1,SBT PERNAMBUCO SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mJjmprV.png" group-title="PREMIERE", Premiere 7 SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38121
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1711
-#EXTINF:-1,SBT SP FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mJjmprV.png" group-title="PREMIERE", Premiere 8 SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32098
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1712
-#EXTINF:-1,SBT INTERIOR FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mJjmprV.png" group-title="PREMIERE", Premiere 8 SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/37847
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1713
-#EXTINF:-1,SBT SP SD *
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES / MÚSICA", Prime Box Brasil SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/37717
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1714
-#EXTINF:-1,SEXTREME SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WsGbulA.png" group-title="INFANTIL", RaTimBum SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32044
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1715
-#EXTINF:-1,SEXY HOT SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IwwiHWB.png" group-title="ESPORTES", Real Madri SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31807
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1716
-#EXTINF:-1,SPACE FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="ABERTOS", Record Amazonas SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38170
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1717
-#EXTINF:-1,SPACE SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="ABERTOS", Record BA SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31659
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1718
-#EXTINF:-1,SPORTV FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="ABERTOS", Record Belem SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32993
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1719
-#EXTINF:-1,SPORTV HD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="ABERTOS", Record Brasilia SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32991
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1720
-#EXTINF:-1,SPORTV SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="ABERTOS", Record DF SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31655
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1721
-#EXTINF:-1,SPORTV 2 HD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="ABERTOS", Record DF SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38172
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1722
-#EXTINF:-1,SPORTV 2 SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="ABERTOS", Record Goias SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32986
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1723
-#EXTINF:-1,SPORTV 3 HD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="ABERTOS", Record Itapoan SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32989
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1724
-#EXTINF:-1,SPORTV 3 SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="ABERTOS", Record MG SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31652
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1725
-#EXTINF:-1,STUDIO UNIVERSAL FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="ABERTOS", Record Minas SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32987
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1726
-#EXTINF:-1,STUDIO UNIVERSAL SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qsUq1Vp.png" group-title="NOTÍCIAS", Record News SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32086
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1727
-#EXTINF:-1,SYFY FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qsUq1Vp.png" group-title="ABERTOS", Record News SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32985
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1728
-#EXTINF:-1,SYFY SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qsUq1Vp.png" group-title="NOTÍCIAS", Record News SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38113
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1729
-#EXTINF:-1,TERRA VIVA HD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="ABERTOS", Record RJ SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31650
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1730
-#EXTINF:-1,TBS SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="ABERTOS", Record RJ SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32983
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1731
-#EXTINF:-1,TCM SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="ABERTOS", Record RS SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31648
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1732
-#EXTINF:-1,.Telecine Action HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="ABERTOS", Record RS SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32981
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1733
-#EXTINF:-1,TELECINE ACTION SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F0OD0jx.png" group-title="ABERTOS", Record SP SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/37738
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1734
-#EXTINF:-1,TELECINE CULT FHD *
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NOTÍCIAS", Rede Litoral News RJ SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32083
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1735
-#EXTINF:-1,.Telecine Cult  HD
+#EXTINF:-1 tvg-logo="http://printv.esy.es/server/Rede%20Vida.png" group-title="RELIGIOSOS", Rede Vida SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32139
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1736
-#EXTINF:-1,TELECINE CULT SD*
+#EXTINF:-1 tvg-logo="http://printv.esy.es/server/Rede%20Vida.png" group-title="RELIGIOSOS", Rede Vida SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38134
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1737
-#EXTINF:-1,TELECINE FUN FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sDXpGNt.png" group-title="ABERTOS", SBT SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31636
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1738
-#EXTINF:-1,.Telecine Fun HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sDXpGNt.png" group-title="ABERTOS", SBT SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32979
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1739
-#EXTINF:-1,TELECINE FUN SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sDXpGNt.png" group-title="ABERTOS", SBT SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38156
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1740
-#EXTINF:-1,TELECINE PIPOCA FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sDXpGNt.png" group-title="ABERTOS", SBT Parana SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38157
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1741
-#EXTINF:-1,.Telecine Pipoca HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sDXpGNt.png" group-title="ABERTOS", SBT PE SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/37871
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1742
-#EXTINF:-1,TELECINE PIPOCA SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1hs2ZfG.png" group-title="FILMES E SÉRIES", Sony SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31912
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1743
-#EXTINF:-1,TELECINE PREMIUM FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1hs2ZfG.png" group-title="FILMES E SÉRIES", Sony SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38105
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1744
-#EXTINF:-1,.Telecine Premium HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uS4Fyix.png" group-title="FILMES E SÉRIES", Space SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31878
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1745
-#EXTINF:-1,TELECINE PREMIUM SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uS4Fyix.png" group-title="FILMES E SÉRIES", Space SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38063
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1746
-#EXTINF:-1,TELECINE TOUCH FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jln3dBV.png" group-title="ESPORTES", SporTV SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31819
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1747
-#EXTINF:-1,.Telecine Touch HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jln3dBV.png" group-title="ESPORTES", SporTV SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38014
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1748
-#EXTINF:-1,TELECINE TOUCH SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPPZSK5.png" group-title="ESPORTES", SporTV 2 SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31816
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1749
-#EXTINF:-1,HISTORY CHANNEL FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPPZSK5.png" group-title="ESPORTES", SporTV 2 SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38013
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1750
-#EXTINF:-1,THE HISTORY CHANNEL SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ituzo2n.png" group-title="ESPORTES", SporTV 3 SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31813
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1751
-#EXTINF:-1,TLC SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ituzo2n.png" group-title="ESPORTES", SporTV 3 SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38012
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1752
-#EXTINF:-1,TNT SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W2DX18j.png" group-title="FILMES E SÉRIES", Studio Universal SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31875
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1753
-#EXTINF:-1,TNT SERIES FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OsHUmIG.png" group-title="FILMES E SÉRIES", SYFY SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/37555
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1754
-#EXTINF:-1,TNT SÃ‰RIES SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OsHUmIG.png" group-title="FILMES E SÉRIES", SYFY SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/33830
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1755
-#EXTINF:-1,TOONCAST SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OsHUmIG.png" group-title="FILMES E SÉRIES", SYFY SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38064
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1756
-#EXTINF:-1,TV RA TIM BUM *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GNLfeHy.png" group-title="FILMES E SÉRIES", TBS SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31872
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1757
-#EXTINF:-1,TV GAZETA HD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GNLfeHy.png" group-title="FILMES E SÉRIES", TBS SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38065
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1758
-#EXTINF:-1,TV GUARULHOS HD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ShwJeRP.png" group-title="FILMES E SÉRIES", TCM SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31869
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1759
-#EXTINF:-1,TV EVANGELIZAR SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jA3Gzh1.png" group-title="TELECINES", Telecine Action SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32176
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1760
-#EXTINF:-1,TRUTV *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jA3Gzh1.png" group-title="TELECINES", Telecine Action SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32585
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1761
-#EXTINF:-1,GLOBO TV LIBERAL BELEM SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jA3Gzh1.png" group-title="TELECINES", Telecine Action SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38066
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1762
-#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sw2ouTS.png" group-title="TELECINES", Telecine Cult SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32173
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1763
-#EXTINF:-1,UNIVERSAL TV FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sw2ouTS.png" group-title="TELECINES", Telecine Cult SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32583
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1764
-#EXTINF:-1,UNIVERSAL TV SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sw2ouTS.png" group-title="TELECINES", Telecine Cult SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38067
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1765
-#EXTINF:-1,VH1 MEGAHITS SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lcxkVop.png" group-title="TELECINES", Telecine Fun SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32170
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1766
-#EXTINF:-1,VIVA HD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lcxkVop.png" group-title="TELECINES", Telecine Fun SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38068
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1767
-#EXTINF:-1,VIVA SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ODdvtS6.png" group-title="TELECINES", Telecine Pipoca SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32167
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1768
-#EXTINF:-1,WARNER CHANNEL FHD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ODdvtS6.png" group-title="TELECINES", Telecine Pipoca SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32581
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1769
-#EXTINF:-1,WARNER CHANNEL SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ODdvtS6.png" group-title="TELECINES", Telecine Pipoca SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38069
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1770
-#EXTINF:-1,WOOHOO SD*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HJxe9Lf.png" group-title="TELECINES", Telecine Premiun SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32164
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1771
-#EXTINF:-1,ZOOMOO SD *
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HJxe9Lf.png" group-title="TELECINES", Telecine Premiun SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38070
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1772
-#EXTINF:-1,.TV Aparecida SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZACae07.png" group-title="TELECINES", Telecine Touch SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32161
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1785
-#EXTINF:-1,24H - A PANTERA COR DE ROSA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZACae07.png" group-title="TELECINES", Telecine Touch SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38071
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1788
-#EXTINF:-1,24H - APENAS UM SHOW
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wx7Nf99.png" group-title="VARIEDADES / MÚSICA", TLC SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/37718
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1789
-#EXTINF:-1,24H - ARMAÃ‡ÃƒO ILIMITADA
+#EXTINF:-1 tvg-logo="http://printv.esy.es/server/TLC.png" group-title="VARIEDADES / MÚSICA", TLC SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38072
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1790
-#EXTINF:-1,24H - CAPITÃƒO PLANETA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FRD2G5E.png" group-title="FILMES E SÉRIES", TNT SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31867
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1791
-#EXTINF:-1,24H - CHANGEMAN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FRD2G5E.png" group-title="FILMES E SÉRIES", TNT SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38073
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1792
-#EXTINF:-1,24H - CHAVES
+#EXTINF:-1 tvg-logo="https://i.imgur.com/14I7HQ6.png" group-title="FILMES E SÉRIES", TNT Séries SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31864
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1793
-#EXTINF:-1,24H - DRAGON BALL SUPER
+#EXTINF:-1 tvg-logo="https://i.imgur.com/14I7HQ6.png" group-title="FILMES E SÉRIES", TNT Séries SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38074
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1794
-#EXTINF:-1,24H - HE-MAN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zVNaltj.png" group-title="INFANTIL", Tooncast SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32042
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1795
-#EXTINF:-1,24H - JASPION
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Top_latino.png" group-title="VARIEDADES / MÚSICA", TOP LATINO SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/37901
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1796
-#EXTINF:-1,24H - LIGA DA JUSTIÃ‡A JOVEM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JQOSER5.png" group-title="VARIEDADES / MÚSICA", TruTV SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/37719
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1797
-#EXTINF:-1,24H - MACGYVER
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JQOSER5.png" group-title="VARIEDADES / MÚSICA", TruTV SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32302
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1798
-#EXTINF:-1,24H - NINJA JIRAYA
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RELIGIOSOS", TV Alvorada Espirita SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32134
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1799
-#EXTINF:-1,24H - O FANTÃSTICO MUNDO DE BOBBY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vXbibeh.png" group-title="RELIGIOSOS", TV Aparecida SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32527
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1800
-#EXTINF:-1,24H - OS FLINTSTONES
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RELIGIOSOS", TV Boa Esperança SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32138
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1801
-#EXTINF:-1,24H - OS NORMAIS
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RELIGIOSOS", TV Espirita Do Parana SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32131
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1802
-#EXTINF:-1,24H - OS SIMPSONS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6bX3C0V.png" group-title="ABERTOS", TV Jornal (SBT PE) SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31632
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1803
-#EXTINF:-1,24H - OS TRAPALHÃ•ES
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="VARIEDADES / MÚSICA", TV5 SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/37720
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1804
-#EXTINF:-1,24H - PATATI - PATATÃ
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="RELIGIOSOS", TVCI SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32120
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1805
-#EXTINF:-1,24H - PEPPA PIG
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9mhNMZq.png" group-title="FILMES E SÉRIES", Universal Channel SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31861
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1806
-#EXTINF:-1,24H - POPEYE
+#EXTINF:-1 tvg-logo="http://printv.esy.es/server/Universal%20Channel.png" group-title="FILMES E SÉRIES", Universal Channel SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38076
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1807
-#EXTINF:-1,24H - POWER RANGERS
+#EXTINF:-1 tvg-logo="http://logos.nnetwork.net/tv_logos/vh1megahits.png" group-title="VARIEDADES / MÚSICA", VH1 Megahits SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32303
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1808
-#EXTINF:-1,24H - SCOOBY DOO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkVKxeZ.png" group-title="VARIEDADES / MÚSICA", Viva SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/37721
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1809
-#EXTINF:-1,24H - SNOOPY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkVKxeZ.png" group-title="VARIEDADES / MÚSICA", Viva SD²
+http://inovattiontv.com:8080/ailtonadm/admuser/32305
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1810
-#EXTINF:-1,24H - SPEED RACER
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkVKxeZ.png" group-title="VARIEDADES / MÚSICA", Viva SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38077
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1811
-#EXTINF:-1,24H - SUPER AMIGOS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DtwTyz9.png" group-title="FILMES E SÉRIES", Warner Channel SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/31858
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1812
-#EXTINF:-1,24H - SUPER VICKY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DtwTyz9.png" group-title="FILMES E SÉRIES", Warner Channel SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38078
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1813
-#EXTINF:-1,24H - THUNDERCATS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AQKs5qx.png" group-title="VARIEDADES / MÚSICA", WOOHOO SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38079
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1814
-#EXTINF:-1,24H - TV PIRATA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vvgtZf2.png" group-title="INFANTIL", Zoomoo SD¹
+http://inovattiontv.com:8080/ailtonadm/admuser/32039
 
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1815
-#EXTINF:-1,24H - UM MALUCO NO PEDAÃ‡O
-
-http://188.165.221.28:25461/iofodmpouh/opkmpeklk/1816
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT SD
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w372330674_b176000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT HD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT RJ HD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1033677620_b216000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT RJ SD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1033677620_b176000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="band.br" tvg-name="BAND" tvg-logo="" group-title="CANAIS ABERTOS",BAND
-http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
-
-#EXTINF:-1 tvg-id="RECORD RJ" tvg-name="RECORD RJ" tvg-logo="http://img.elitehdbr.com/logos/record.png" group-title="CANAIS ABERTOS",RECORD RJ HD
-https://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2C91b5d3b827420a1672ca14495409c832%3Bbase64np%3BwRt34eUEhlq-Gp8%21/amlst%3AwRuP-PhPg1uhWhM4/chunklist_b2690048.m3u8
-
-#EXTINF:-1 tvg-id="RECORD SP" tvg-name="RECORD SP" tvg-logo="http://img.elitehdbr.com/logos/record.png" group-title="CANAIS ABERTOS",RECORD SP
-http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cc63dc860710b549f2a9f80342cd54418%3Bbase64np%3BDu4aOVgIM5Bl8fI%21/amlst%3ADu7iIEVDNpF6sX6G/chunklist_b2690048.m3u8
-
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV SD" tvg-logo="http://i.imgur.com/jJBUZ6O.png" group-title="CANAIS ABERTOS",REDE TV RJ
-http://evpp.mm.uol.com.br:1935/redetv2/redetv2/chunklist_w1379590905.m3u8
-
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV SD" tvg-logo="http://i.imgur.com/jJBUZ6O.png" group-title="CANAIS ABERTOS",REDE TV SP
-http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",ESPN EXTRA
-http://c3170-gbbrslbps-sambatech.akamaized.net:80/live/3170,8466,3958f83a366a90dbbd093f8907129171;base64np;k_t80-AGg9JIUeY!/amlst:k_uEyv1NhtNXEWo1/chunklist_b503808.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",BIS
-http://playback.imirun.net:8080//BIS/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="TVCATV",RECORD NEWS
-http://hvod.imirun.net:8080/Record-News-HD/index.m3u8
-
-
-
- 
-
-
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="RELIGIOSO",TV APARECIDA
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="EVANGELICO", Tv Missao 
-rtmp://wse7.player.tv.br:1935/tvmissao/ playpath=tvmissao swfUrl=http://wse7.player.tv.br/assets/plugins/jwplayer-7.0.1/jwplayer.flash.swf pageUrl=http://www.tvmissao.com.br/
-
-#EXTINF:-1 tvg-logo="" group-title="EVANGELICO", Tv Novo Tempo
-http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1MEGAHITS.png" tvg-id=" group-title="TV Musicas",VH1 MEGAHITS
-http://stream.1music.hu/stream/1music.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/t1qbf9bZXVBD1Ti1YwKQrL7ZFBStacsU49WXfGfwPd337-t5BHyHHZnGzQ_kW8dMvg=h900" group-title="TV Musicas",NOSSA TV
-http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/4i8o6fouh/DHING.jpg" group-title="TV Musicas",DJ Hits
-http://www.djing.com/tv/04.m3u8
-
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/kqthtnn2h/retromusic.jpg" group-title="TV Musicas",Retro Music
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/5xeu8wfbd/radio105.png" group-title="TV Musicas",Radio 105 TV
-http://fms.105.net:1935/live/105Test1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TV Musicas",ONE 0
-http://rtmp.one.by:1200
-
-#EXTINF:-1 tvg-logo="" group-title="TV Musicas",ONE 1 HD
-http://rtmp.one.by:1300
-
-#EXTINF:-1 tvg-logo="" group-title="TV Musicas",ONE 4 HD
-http://rtmp.one.by:2300
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Kids
-http://192.99.150.31:9431/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",MPB
-http://192.99.150.31:8775/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Bossa Nova
-http://6d9a.webradio.upx.net.br:9974/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Forró
-http://192.99.150.31:9019/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Pagode
-http://6d9a.webradio.upx.net.br:9061/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Anos 2000
-http://6d9a.webradio.upx.net.br:9940/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Sertanejo
-http://192.99.150.31:9485/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Funk
-http://192.99.150.31:9089/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Rock Clássico
-http://192.99.150.31:9125/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Lounge
-http://6d9a.webradio.upx.net.br:9064/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Pop Rock
-http://6d9a.webradio.upx.net.br:8016/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Anos 70
-http://192.99.150.31:8241/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Anos 80
-http://192.99.150.31:8697/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Anos 90
-http://192.99.150.31:8056/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Românticas
-http://192.99.150.31:8962/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Rap Nacional
-http://192.99.150.31:8377/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Rock Brasil
-http://14923.live.streamtheworld.com/CIDADEROCKBRASILAAC
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Eletrônica
-http://192.99.150.31:9095/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Festa
-http://6d9a.webradio.upx.net.br:9070/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Gospel
-http://192.99.150.31:9101/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Hip Hop
-http://192.99.150.31:8721/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Jazz
-http://192.99.150.31:8042/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Axé
-http://192.99.150.31:8305/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Brega
-http://192.99.150.31:9007/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Música Clássica
-http://6d9a.webradio.upx.net.br:9970/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",New Rock
-http://6d9a.webradio.upx.net.br:8028/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Reggae
-http://192.99.150.31:8715/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Sertanejo Universitário
-http://192.99.150.31:9191/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Samba de Raiz
-http://stm19.shoutcast.melhorhospedagemweb.com:11138/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Pop Hits
-http://6d9a.webradio.upx.net.br:9046/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Metal
-http://6d9a.webradio.upx.net.br:9898/stream
-#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Trilhas Sonoras
-http://6d9a.webradio.upx.net.br:9896/stream
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-yvBt5WYfG6c/Tzr83sXucuI/AAAAAAAAEbg/ZOSMhqFbbyM/s1600/RADIO_FM_O_DIA_RJ.png" group-title="Radios", FM O DIA TV
-http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
-
-#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/650/mobileicon/ef3072346f4c1255e2a9e03d87a7a86f.png" group-title="Radios",BIGMIX TV
-https://5c64355d4b57c.streamlock.net:1936/bigmix/bigmix/chunklist_w1815015955.m3u8
-
-#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/650/mobileicon/ef3072346f4c1255e2a9e03d87a7a86f.png" group-title="Radios",BIGMIX
-https://servidor39-1.brlogic.com:8130/live
-
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-yvBt5WYfG6c/Tzr83sXucuI/AAAAAAAAEbg/ZOSMhqFbbyM/s1600/RADIO_FM_O_DIA_RJ.png" group-title="Radios", FM O DIA
-http://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/chunklist_w1559633248.m3u8
-
-#EXTINF:-1 tvg-logo="http://radiosatweb.com.br/images/184111d0e37ef988411217c0ed14431d.png" group-title="Radios",Estação SAT FM
-http://s32.maxcast.com.br:8022/live
-
-#EXTINF:-1 tvg-logo="http://mixfm.com.br/wp-content/themes/mix/assets/images/logo-facebook-share.png" group-title="Radios",Mix FM
-http://mixaac.crossradio.com.br:1100/live
-
-#EXTINF:-1 tvg-logo="https://www.imusicaradios.com.br/go_ccfm/img/logo_cc.png?176d163dce6f3a78" group-title="Radios", Coca Cola FM
-https://str2b.openstream.co/1084
-
-#EXTINF:-1 tvg-logo="http://www.radiomania.com.br/wp-content/themes/radiomania/imagens/mobile/logo.png" group-title="Radios", Radio Mania
-http://shout35.crossradio.com.br:8086
-
-#EXTINF:-1 tvg-logo="http://www.vibe89fm.com/sites/all/themes/vibe/images/logo.png" group-title="Radios",Vibe FM
-http://servidor36.brlogic.com:8180/live
-
-#EXTINF:-1 tvg-logo="http://player.crosshost.com.br/playerdev/assets/img/clientes/609/8258b880a641ff4627d31d6b54cf25d7.png" group-title="Radios",CIDADE DO ACO
-http://ice1.crossradio.com.br:8184/live.mp3
-
-#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/jNHeq6dAZUmpByumQKOdh2N64B2-i6Qwd-MlFysGxZPnF7pbktOcFLrOgTcN28g5Fa0=w300" group-title="Radios",Vagalume Vibe
-https://stream.vagalume.fm/hls/14623883771774082279/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/jNHeq6dAZUmpByumQKOdh2N64B2-i6Qwd-MlFysGxZPnF7pbktOcFLrOgTcN28g5Fa0=w300" group-title="Radios",Vagalume Funk
-https://stream.vagalume.fm/hls/1470154922349875/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/jNHeq6dAZUmpByumQKOdh2N64B2-i6Qwd-MlFysGxZPnF7pbktOcFLrOgTcN28g5Fa0=w300" group-title="Radios",Vagalume Sertanejo Hits
-https://stream.vagalume.fm/hls/14619606471054026608/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/jNHeq6dAZUmpByumQKOdh2N64B2-i6Qwd-MlFysGxZPnF7pbktOcFLrOgTcN28g5Fa0=w300" group-title="Radios",Vagalume Pagode
-https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
-
-#EXTINF:-1 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhfhctHpdWrnU-xJDtqQc-FQiPiBl1qfxgoSTjOBBvBSa7GUjHbCKdBLNC4g" group-title="Radios",BH FM
-https://medias.sgr.globo.com/hls/aBHFM/aBHFM.m3u8
+#EXTINF:-1 tvg-logo="http://printv.esy.es/server/ZooMoo.png" group-title="INFANTIL", Zoomoo SD³
+http://inovattiontv.com:8080/ailtonadm/admuser/38080
