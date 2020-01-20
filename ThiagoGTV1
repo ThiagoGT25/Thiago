@@ -1,389 +1,129 @@
 #EXTM3U
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/aVvaYBI.jpg" group-title="Informações da Lista" ,Atualizada 06/01/2020
-http://
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OuRdwxx_d.jpg" group-title="Informações da Lista" ,By EDSON-FLIX TV
-http://
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/stD7hR7_d.jpg" group-title="💵💵LISTA PREMIUM💵💵" ,ADQUIRA SUA LISTA PREMIUM
-http://
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/stD7hR7_d.jpg" group-title="💵💵LISTA PREMIUM💵💵" ,A PARTIR DE 25$ REAIS 
-http://
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/stD7hR7_d.jpg" group-title="💵💵LISTA PREMIUM💵💵" ,PEÇA SEU TESTE GRÁTIS
-http://
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/3Ue6fDd.jpg" group-title="💵💵LISTA PREMIUM💵💵" ,+55 (81) 993879719
-http://
-
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-1-1.png" group-title="CANAL EDSON-FLIX TV" ,ESCREVA-SE NO CANAL EDSON-FLIX TV
-https://www.youtube.com/channel/UC_6zo6UPX5Eri48zf3qdoPw
-
-########################################
-########################################
-
-
-
-
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS ABERTOS",BAND HD
-http://195.181.162.87:2200/BR1/3203-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS ABERTOS",BAND SP HD
-http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w210441685.m3u8
-
-#EXTINF:-1 tvg-id="CanalRural.br" tvg-name="CANAL RURAL" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS ABERTOS",CANAL RURAL SD
-http://evpp.mm.uol.com.br:80/canal_rural/aovivo.sdp/chunklist_w1841126124.m3u8
-
-#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS ABERTOS",FUTURA HD
-http://195.181.162.87:2200/BR1/futurahd-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA CE SD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS ABERTOS",FUTURA CE SD
-https://5a1c76baf08c0.streamlock.net:443/z01-live/stream/chunklist_w892150901.m3u8
-
-#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA SD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS ABERTOS",FUTURA SD
-http://caikron.com.br:1935/unipar/tvup/chunklist_w1357849035.m3u8
-
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO RJ HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS ABERTOS",GLOBO RJ HD
-http://195.181.162.87:2200/BR1/3248-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Globo.br" tvg-name="GLOBO HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS ABERTOS",GLOBO HD
-http://195.181.162.87:2200/BR1/3201-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-name="REDE BRASIL SD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS ABERTOS" ,REDE BRASIL SD
-http://tv01.logicahost.com.br:1935/rbtv/rbtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS ABERTOS",REDE TV HD
-http://195.181.162.87:2200/BR1/3205-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV SD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS ABERTOS",REDE TV SD
-http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV  PB HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS ABERTOS",REDE TV PB HD
-https://5b7f3c45ab7c2.streamlock.net:443/9010/ngrp:9010_all/chunklist_w1880434489_b1359872_DVR.m3u8
-
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV  RS HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS ABERTOS",REDE TV RS HD
-https://v8.ciclano.io:1443/rafael926/_definst_/rafael926/chunklist_w2009869008.m3u8
-
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS ABERTOS",RECORD SP HD
-http://195.181.162.87:2200/BR1/3202-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS ABERTOS",RECORD HD
-https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS ABERTOS",RECORD SD
-https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT CE HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS ABERTOS",SBT CE HD
-https://evpp.mm.uol.com.br:443/ne10/ne10.smil/chunklist_w1407590435_b216000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS ABERTOS",SBT SP HD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS ABERTOS",SBT PE HD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1692704869_b216000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS ABERTOS",SBT GO HD
-http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1223862751_b796000.m3u8
-
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT MA SD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS ABERTOS",SBT MA SD
-https://5a1c76baf08c0.streamlock.net:443/z438-live/stream/chunklist_w1196303028.m3u8
-
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT PI HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS ABERTOS",SBT PI HD
-https://59e4b6c1beddc.streamlock.net:443/pioneira-tv3/pioneira-tv3/chunklist_w2071608790.m3u8
-
-#EXTINF:-1 tvg-id="TvAcritica.br" tvg-name="TV A CRÍTICA SD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS ABERTOS" ,TV A CRÍTICA SD
-https://slbps-sambatech.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b1155072.m3u8
-
-#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV BRASIL HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS ABERTOS",TV BRASIL HD
-http://ebctvbrasil-rtmp.adaptive.level3.net:80/egress/bhandler/ebcremuxlive/tvbrasil/chunklist_b1056768.m3u8
-
-#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV BRASIL SD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS ABERTOS",TV BRASIL SD
-rtmp://stream2.ba.gov.br/livepkgr/ playpath=pgm-2?adbe-live-event=irdeb swfUrl=http://vjs.zencdn.net/4.12/video-js.swf live=1 pageUrl=http://www.irdeb.ba.gov.br/streaming/aovivo/830x467
-
-#EXTINF:-1 tvg-id="TVCultura.br" tvg-name="TV CULTURA FHD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS ABERTOS",TV CULTURA FHD
-http://wowza4.catve.com.br:1935/live/livestream/chunklist_w848894322.m3u8
-
-#EXTINF:-1 tvg-id="TVCultura.br" tvg-name="TV CULTURA HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS ABERTOS" ,TV CULTURA HD
-http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVCultura.br" tvg-name="TV CULTURA MS HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS ABERTOS" ,TV CULTURA MS HD
-http://rjofrgstr01.se.fertel.cds.ebtcvd.net:80/hls/STFERTEL01_720/index.m3u8
-
-#EXTINF:-1 tvg-id="TvCamara.br" tvg-name="TV CÂMARA SD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS ABERTOS" ,TV CÂMARA SD
-https://stream3.camara.gov.br/tv1/manifest.m3u8
-
-#EXTINF:-1 tvg-id="TvGazeta" tvg-name="TV GAZETA MA HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS ABERTOS" ,TV GAZETA MA HD
-http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TV MACEIÓ SD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS ABERTOS" ,TV MACEIÓ SD
-https://59f1cbe63db89.streamlock.net:1443/toptv/_definst_/toptv/chunklist_w1343874337.m3u8
-
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS DOCUMENTÁRIOS",ANIMAL PLANET HD
-http://195.181.162.87:2200/BR1/animalplanethd-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS DOCUMENTÁRIOS",DISCOVERY CHANNEL HD
-http://195.181.162.87:2200/BR1/discoverychannelhd-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="DISCOVERY HOME & HEALTH HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS DOCUMENTÁRIOS",DISCOVERY HOME & HEALTH HD
-http://195.181.162.87:2200/BR1/dischomehealthhd-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS DOCUMENTÁRIOS",DISCOVERY SCIENCE HD
-http://195.181.162.87:2200/BR1/discoveryscience-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS DOCUMENTÁRIOS",DISCOVERY TURBO HD
-http://195.181.162.87:2200/BR1/discoveryturbohd-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS DOCUMENTÁRIOS",DISCOVERY THEATER HD
-http://195.181.162.87:2200/BR1/3218-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS DOCUMENTÁRIOS",DISCOVERY WORLD HD
-http://195.181.162.87:2200/BR1/3221-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="HGTV.br" tvg-name="HGTV HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS DOCUMENTÁRIOS",HGTV HD
-http://198.255.23.18:2095/streams/123_.m3u8
-
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS DOCUMENTÁRIOS",HISTORY CHANNEL HD
-http://195.181.162.87:2200/BRS/historyhd-br-hevc/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS DOCUMENTÁRIOS",H2 HD
-http://195.181.162.87:2200/BR1/h2hd-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS DOCUMENTÁRIOS",ID - INVESTIGACAO DISCOVERY HD
-http://198.255.23.18:2095/streams/116_.m3u8
-
-#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NAT GEO HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS DOCUMENTÁRIOS",NAT GEO HD
-http://195.181.162.87:2200/BR1/natgeohd-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NAT GEO WILD HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS DOCUMENTÁRIOS",NAT GEO WILD HD
-http://195.181.162.87:2200/BR1/natgeowildhd-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS FILMES/SÉRIES",AMC HD
-http://195.181.162.87:2200/BR1/3244-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS FILMES/SÉRIES",AXN HD
-http://195.181.162.87:2200/BR1/axnhd-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS FILMES/SÉRIES",A&E HD
-http://195.181.162.87:2200/BR1/aehd-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS FILMES/SÉRIES",CANAL BRASIL HD
-http://195.181.162.87:2200/BR1/canalbrasilhd-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS FILMES/SÉRIES",CANAL SONY HD
-http://195.181.162.87:2200/BR1/canalsonyhd-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS FILMES/SÉRIES",CINEMAX HD
-http://195.181.162.87:2200/BR1/cinemaxhd-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX LIFE HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS FILMES/SÉRIES",FOX LIFE HD
-http://195.181.162.87:2200/BR1/3229-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS FILMES/SÉRIES",FOX HD
-http://198.255.23.18:2095/streams/161_.m3u8
-
-#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS FILMES/SÉRIES",FOX PREMIUM 1 HD
-http://195.181.162.87:2200/BR1/3228-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS FILMES/SÉRIES",FOX PREMIUM 2 HD
-http://195.181.162.87:2200/BR1/3240-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS FILMES/SÉRIES",FX HD
-http://195.181.162.87:2200/BR1/3217-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO2 HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS FILMES/SÉRIES",HBO2 HD
-http://195.181.162.87:2200/BR1/3233-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS FILMES/SÉRIES",HBO SIGNATURE HD
-http://195.181.162.87:2200/BR1/3234-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO PLUS HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS FILMES/SÉRIES",HBO PLUS HD
-http://195.181.162.87:2200/BR1/3235-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS FILMES/SÉRIES",HBO FAMILY HD
-http://195.181.162.87:2200/BR1/3237-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS FILMES/SÉRIES",HBO HD
-http://195.181.162.87:2200/BR1/3230-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Max.br" tvg-name="MAX HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS FILMES/SÉRIES",MAX HD
-http://195.181.162.87:2200/BR1/max-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Maxuphd.br" tvg-name="MAX UP HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS FILMES/SÉRIES",MAX UP HD
-http://195.181.162.87:2200/BR1/maxuphd-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="MAX PRIME HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS FILMES/SÉRIES",MAX PRIME HD
-http://195.181.162.87:2200/BRS/maxprime-br-hevc/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS FILMES/SÉRIES",MEGAPIX HD
-http://195.181.162.87:2200/BR1/3214-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS FILMES/SÉRIES",PARAMOUNT CHANNEL HD
-http://195.181.162.87:2200/BR1/paramounthd-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS FILMES/SÉRIES",SPACE HD
-http://195.181.162.87:2200/BR1/space-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS FILMES/SÉRIES",SYFY HD
-http://195.181.162.87:2200/BR1/syfyhd-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS FILMES/SÉRIES",STUDIO UNIVERSAL HD
-http://195.181.162.87:2200/BR1/studiouniversal-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS FILMES/SÉRIES",TELECINE TOUCH HD
-http://195.181.162.87:2200/BR1/3209-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TELECINE PREMIUM HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS FILMES/SÉRIES",TELECINE PREMIUM HD
-http://195.181.162.87:2200/BR1/3207-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS FILMES/SÉRIES",TELECINE PIPOCA HD
-http://195.181.162.87:2200/BR1/3211-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TELECINE FUN HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS FILMES/SÉRIES",TELECINE FUN HD
-http://195.181.162.87:2200/BR1/3210-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TELECINE ACTION HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS FILMES/SÉRIES",TELECINE ACTION HD
-http://195.181.162.87:2200/BR1/3208-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TELECINE CULT HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS FILMES/SÉRIES",TELECINE CULT HD
-http://195.181.162.87:2200/BR1/3212-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS FILMES/SÉRIES",TBS HD
-http://195.181.162.87:2200/BR1/tbs-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS FILMES/SÉRIES",TCM HD
-http://195.181.162.87:2200/BR1/tcm-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS FILMES/SÉRIES",TNT SERIES HD
-http://195.181.162.87:2200/BRS/tntserieshd-be-hevc/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:- tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS FILMES/SÉRIES",TNT HD
-http://195.181.162.87:2200/BR1/tnthd-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS FILMES/SÉRIES",UNIVERSAL CHANNEL HD
-http://195.181.162.87:2200/BR1/universalchannelhd-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS FILMES/SÉRIES",WARNER CHANNEL HD
-http://195.181.162.87:2200/BR1/3220-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV SD." tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS INFANTIL",BABY TV SD
-http://195.181.162.87:2200/BR1/babytv-br/tracks-v1a1/mono.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="BOOMERANG HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS INFANTIL",BOOMERANG HD
-http://195.181.162.87:2200/BR1/boomeranghd-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS INFANTIL",CARTOON NETWORK HD
-http://195.181.162.87:2200/BR1/cartoonnetwork-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS INFANTIL",DISCOVERY KIDS HD
-http://195.181.162.87:2200/BR1/discoverykidshd-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="DisneyChannel.br" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS INFANTIL", DISNEY CHANNEL HD
-http://198.255.23.18:2095/streams/129_.m3u8
-
-#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="DISNEY JR" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS INFANTIL",DISNEY JR HD
-http://195.181.162.87:2200/BR1/disneyjunior-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="DisneyXD.br" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS INFANTIL", DISNEY XD HD
-http://195.181.162.87:2200/BR1/disneyxd-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS INFANTIL",GLOOB HD
-http://198.255.23.18:2095/streams/133_.m3u8
-
-#EXTINF:-1 tvg-id="Natgeokids.br" tvg-name="NATGEO KIDS HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS INFANTIL",NATGEO KIDS HD
-http://195.181.162.87:2200/BR1/3246-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICK HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS INFANTIL",NICK HD
-
-
-#EXTINF:-1 tvg-id="NickJr.br." tvg-name="NICK JR HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS INFANTIL",NICK JR HD
-http://195.181.162.87:2200/BR1/nickjrhd-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS INFANTIL",TOONCAST HD
-http://195.181.162.87:2200/BR1/3243-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS MUSICA",BIS HD
-http://195.181.162.87:2200/BR1/bishd-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS MUSICA",MTV HD
-http://195.181.162.87:2200/BR1/mtvhd-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="MusicBox.br" tvg-name="MUSIC BOX  HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS MUSICA",MUSIC BOX HD
-http://195.181.162.87:2200/BR1/musicboxbrazil-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Vh1MegaHits" tvg-name="VH1 HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS MUSICA",VH1  HD
-http://195.181.162.87:2200/BR1/vh1hd-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Vh1MegaHits" tvg-name="VH1 MEGA HITS HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS MUSICA",VH1 MEGA HITS HD
-http://195.181.162.87:2200/BR1/vh1megahits-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS NOTÍCIAS",BAND NEWS HD
-http://195.181.162.87:2200/BR1/bandnewshd-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS NOTÍCIAS",GLOBO NEWS HD
-http://195.181.162.87:2200/BR1/globonewshd-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS NOTÍCIAS", RECORD NEWS HD
-http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8
-
-#EXTINF:-1 tvg-id="BoaVontadeTv.br" tvg-name="BOA VONTADE TV HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS RELIGIOSOS" ,BOA VONTADE TV HD
-https://playback2.akamaized.net/streams/15107153_4338771_lsijtmac9mds0pq9hxi_1/exp=1563666236~acl=%2f*~data=hdntl~hmac=f900964b9062f709a1047858d659342687f2b7b6ecb95701b582850c12446139/media/15107153_4338771_lsijtmac9mds0pq9hxi_1@2128000p.m3u8
-
-#EXTINF:-1 tvg-id="BoaVontadeTv.br" tvg-name="BOA VONTADE TV SD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS RELIGIOSOS" ,BOA VONTADE TV SD
-https://playback2.akamaized.net/streams/15107153_4338771_lsijtmac9mds0pq9hxi_1/exp=1563666236~acl=%2f*~data=hdntl~hmac=f900964b9062f709a1047858d659342687f2b7b6ecb95701b582850c12446139/media/15107153_4338771_lsijtmac9mds0pq9hxi_1@1628000pb.m3u8
-
-#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANÇÃO NOVA HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS RELIGIOSOS" ,CANÇÃO NOVA HD
-http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
-
-#EXTINF:-1 tvg-id="RedeVida.br" tvg-name="REDE VIDA HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS RELIGIOSOS" ,REDE VIDA HD
-http://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
-
-#EXTINF:-1 tvg-id="TvAparecida.br" tvg-name="TV APARECIDA SD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS RELIGIOSOS" ,TV APARECIDA SD
-http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/media_w195179599_72234.ts
-
-#EXTINF:-1 tvg-id="NovoTempo.br" tvg-name="TV NOVO TEMPO SD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS RELIGIOSOS" ,TV NOVO TEMPO SD
-http://stream.novotempo.com:1935/tv/tvnovotempo.stream/media_w673020760_13348.ts
-
-#EXTINF:-1 tvg-id="TvEvangelizar.br" tvg-name="TV EVANGELIZAR SD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS RELIGIOSOS" ,TV EVANGELIZAR SD
-http://tvevangelizar01.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
-
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS VARIEDADES",ARTE 1 HD
-http://195.181.162.87:2200/BR1/arte1-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS VARIEDADES",COMEDY CENTRAL HD
-http://195.181.162.87:2200/BR1/3249-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA! HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS VARIEDADES",CURTA! HD
-http://195.181.162.87:2200/BR1/curta-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="E!.br" tvg-name="E! HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS VARIEDADES",E! HD
-http://195.181.162.87:2200/BR1/ehd-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS VARIEDADES",FOOD NETWORK HD
-http://195.181.162.87:2200/BR1/foodnetworkhd-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS VARIEDADES",GNT HD
-http://195.181.162.87:2200/BR1/gnthd-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS VARIEDADES",LIFETIME HD
-http://195.181.162.87:2200/BR1/lifetimehd-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MAIS GLOBOSAT HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS VARIEDADES",MAIS GLOBOSAT HD
-http://195.181.162.87:2200/BR1/maisglobosat-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="PrimeBox.br" tvg-name="PRIME BOX BRAZIL HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS VARIEDADES" ,PRIME BOX BRAZIL HD
-http://195.181.162.87:2200/BR1/primeboxbrasil-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="TLC.br" tvg-name="TLC HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS VARIEDADES" ,TLC HD
-http://195.181.162.87:2200/BR1/3213-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
-
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD" tvg-logo="https://i.imgur.com/5yfHu2a_d.jpg" group-title="CANAIS VARIEDADES" ,VIVA HD
-http://195.181.162.87:2200/BR1/vivahd-br/index.m3u8?token=DbxkzifWVW3LnLLmpFcfww==,1578881523.5496482130
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother Brasil 2020 (24H)" tvg-logo="http://lb1.iptv.movie/logos/bbb20.png" group-title="Canais: 24 Horas",WENDEL TECK ig Brother Brasil 2020 (24H)
+http://canais.servidor.tv:8080/regina/12345/3975
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD" tvg-logo="http://lb1.iptv.movie/logos/ae.jpg" group-title="Canais: Filme e Série",WENDEL TECK A&E HD
+http://canais.servidor.tv:8080/regina/12345/1521
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD+" tvg-logo="http://lb1.iptv.movie/logos/ae.jpg" group-title="Canais: Filme e Série",WENDEL TECK A&E HD+
+http://canais.servidor.tv:8080/regina/12345/375
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="http://lb1.iptv.movie/logos/amc.jpg" group-title="Canais: Filme e Série",WENDEL TECK AMC HD
+http://canais.servidor.tv:8080/regina/12345/1498
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD+" tvg-logo="http://lb1.iptv.movie/logos/amc.jpg" group-title="Canais: Filme e Série",WENDEL TECK AMC HD+
+http://canais.servidor.tv:8080/regina/12345/373
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="http://lb1.iptv.movie/logos/animalplanet.png" group-title="Canais: Documentário",WENDEL TECK Animal Planet HD
+http://canais.servidor.tv:8080/regina/12345/1497
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD+" tvg-logo="http://lb1.iptv.movie/logos/animalplanet.png" group-title="Canais: Documentário",WENDEL TECK Animal Planet HD+
+http://canais.servidor.tv:8080/regina/12345/371
+#EXTINF:-1 tvg-id="arte1.br" tvg-name="Arte 1 HD+" tvg-logo="http://lb1.iptv.movie/logos/arte1.jpg" group-title="Canais: Variedade e Música",WENDEL TECK Arte 1 HD+
+http://canais.servidor.tv:8080/regina/12345/15
+#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Jackie Chan (24H)" tvg-logo="http://lb1.iptv.movie/logos/jackiechan.jpg" group-title="Canais: 24 Horas",WENDEL TECK As Aventuras de Jackie Chan (24H)
+http://canais.servidor.tv:8080/regina/12345/2326
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="http://lb1.iptv.movie/logos/axn.jpg" group-title="Canais: Filme e Série",WENDEL TECK AXN HD
+http://canais.servidor.tv:8080/regina/12345/1496
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD+" tvg-logo="http://lb1.iptv.movie/logos/axn.jpg" group-title="Canais: Filme e Série",WENDEL TECK AXN HD+
+http://canais.servidor.tv:8080/regina/12345/369
+#EXTINF:-1 tvg-id="babytv.br" tvg-name="Baby TV SD" tvg-logo="http://lb1.iptv.movie/logos/babytv.png" group-title="Canais: Infantil",WENDEL TECK Baby TV SD
+http://canais.servidor.tv:8080/regina/12345/367
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band HD" tvg-logo="http://lb1.iptv.movie/logos/band.png" group-title="Canais: Abertos",WENDEL TECK Band HD
+http://canais.servidor.tv:8080/regina/12345/489
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band HD+" tvg-logo="http://lb1.iptv.movie/logos/band.png" group-title="Canais: Abertos",WENDEL TECK Band HD+
+http://canais.servidor.tv:8080/regina/12345/484
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News HD" tvg-logo="http://lb1.iptv.movie/logos/bandnews.png" group-title="Canais: Notícia",WENDEL TECK Band News HD
+http://canais.servidor.tv:8080/regina/12345/1494
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News HD+" tvg-logo="http://lb1.iptv.movie/logos/bandnews.png" group-title="Canais: Notícia",WENDEL TECK Band News HD+
+http://canais.servidor.tv:8080/regina/12345/363
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports HD" tvg-logo="http://lb1.iptv.movie/logos/bandsports.png" group-title="Canais: Esporte",WENDEL TECK Band Sports HD
+http://canais.servidor.tv:8080/regina/12345/1495
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports HD+" tvg-logo="http://lb1.iptv.movie/logos/bandsports.png" group-title="Canais: Esporte",WENDEL TECK Band Sports HD+
+http://canais.servidor.tv:8080/regina/12345/360
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD" tvg-logo="http://lb1.iptv.movie/logos/bis.png" group-title="Canais: Variedade e Música",WENDEL TECK BIS HD
+http://canais.servidor.tv:8080/regina/12345/1493
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD+" tvg-logo="http://lb1.iptv.movie/logos/bis.png" group-title="Canais: Variedade e Música",WENDEL TECK BIS HD+
+http://canais.servidor.tv:8080/regina/12345/358
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja (24H)" tvg-logo="http://lb1.iptv.movie/logos/bobesponja.jpg" group-title="Canais: 24 Horas",WENDEL TECK Bob Esponja (24H)
+http://canais.servidor.tv:8080/regina/12345/2327
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang HD" tvg-logo="http://lb1.iptv.movie/logos/boomerang.png" group-title="Canais: Infantil",WENDEL TECK Boomerang HD
+http://canais.servidor.tv:8080/regina/12345/1492
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang HD+" tvg-logo="http://lb1.iptv.movie/logos/boomerang.png" group-title="Canais: Infantil",WENDEL TECK Boomerang HD+
+http://canais.servidor.tv:8080/regina/12345/355
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="Canal Brasil HD" tvg-logo="http://lb1.iptv.movie/logos/canalbrasil.jpg" group-title="Canais: Filme e Série",WENDEL TECK Canal Brasil HD
+http://canais.servidor.tv:8080/regina/12345/353
+#EXTINF:-1 tvg-id="" tvg-name="Canal Rural SD" tvg-logo="http://lb1.iptv.movie/logos/canalrural.png" group-title="Canais: Abertos",WENDEL TECK Canal Rural SD
+http://canais.servidor.tv:8080/regina/12345/351
+#EXTINF:-1 tvg-id="cancaonova.br" tvg-name="Cancao Nova SD" tvg-logo="http://lb1.iptv.movie/logos/cancaonova.png" group-title="Canais: Religião",WENDEL TECK Cancao Nova SD
+http://canais.servidor.tv:8080/regina/12345/1519
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="http://lb1.iptv.movie/logos/cartoonnetwork.jpg" group-title="Canais: Infantil",WENDEL TECK Cartoon Network HD
+http://canais.servidor.tv:8080/regina/12345/1491
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network HD+" tvg-logo="http://lb1.iptv.movie/logos/cartoonnetwork.jpg" group-title="Canais: Infantil",WENDEL TECK Cartoon Network HD+
+http://canais.servidor.tv:8080/regina/12345/349
+#EXTINF:-1 tvg-id="" tvg-name="Chaves (24H)" tvg-logo="http://iptv.movie:8080/images/lQFO5cPoYfKrACayWItroAi1Wdp_small.jpg" group-title="Canais: 24 Horas",WENDEL TECK Chaves (24H)
+http://canais.servidor.tv:8080/regina/12345/2701
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD" tvg-logo="http://lb1.iptv.movie/logos/cinemax.png" group-title="Canais: Filme e Série",WENDEL TECK Cinemax HD
+http://canais.servidor.tv:8080/regina/12345/1490
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD+" tvg-logo="http://lb1.iptv.movie/logos/cinemax.png" group-title="Canais: Filme e Série",WENDEL TECK Cinemax HD+
+http://canais.servidor.tv:8080/regina/12345/347
+#EXTINF:-1 tvg-id="" tvg-name="Clássicos Walt Disney (24H)" tvg-logo="http://canais.servidor.tv:8080/images/054cb580da77a3a7cf0579d0fc2dcbc0.jpg" group-title="Canais: 24 Horas",WENDEL TECK Clássicos Walt Disney (24H)
+http://canais.servidor.tv:8080/regina/12345/3970
+#EXTINF:-1 tvg-id="cnnespanol.us" tvg-name="CNN Espanhol SD" tvg-logo="http://lb1.iptv.movie/logos/CNN.png" group-title="Canais: Notícia",WENDEL TECK CNN Espanhol SD
+http://canais.servidor.tv:8080/regina/12345/345
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN Internacional SD" tvg-logo="http://lb1.iptv.movie/logos/CNN.png" group-title="Canais: Notícia",WENDEL TECK CNN Internacional SD
+http://canais.servidor.tv:8080/regina/12345/344
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD" tvg-logo="http://lb1.iptv.movie/logos/combate.jpg" group-title="Canais: Esporte",WENDEL TECK Combate HD
+http://canais.servidor.tv:8080/regina/12345/1489
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD+" tvg-logo="http://lb1.iptv.movie/logos/combate.jpg" group-title="Canais: Esporte",WENDEL TECK Combate HD+
+http://canais.servidor.tv:8080/regina/12345/342
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central HD" tvg-logo="http://lb1.iptv.movie/logos/comedycentral.jpg" group-title="Canais: Filme e Série",WENDEL TECK Comedy Central HD
+http://canais.servidor.tv:8080/regina/12345/1488
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central HD+" tvg-logo="http://lb1.iptv.movie/logos/comedycentral.jpg" group-title="Canais: Filme e Série",WENDEL TECK Comedy Central HD+
+http://canais.servidor.tv:8080/regina/12345/340
+#EXTINF:-1 tvg-id="" tvg-name="Copa do Mundo FIFA 2002: Melhores Momentos (24H)" tvg-logo="http://canais.servidor.tv:8080/images/96744845e691df222da01631aadc7b98.jpg" group-title="Canais: 24 Horas",WENDEL TECK Copa do Mundo FIFA 2002: Melhores Momentos (24H)
+http://canais.servidor.tv:8080/regina/12345/3971
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="Cultura SD" tvg-logo="http://lb1.iptv.movie/logos/cultura.png" group-title="Canais: Variedade e Música",WENDEL TECK Cultura SD
+http://canais.servidor.tv:8080/regina/12345/79
+#EXTINF:-1 tvg-id="curta.br" tvg-name="Curta! SD" tvg-logo="http://lb1.iptv.movie/logos/curta.png" group-title="Canais: Variedade e Música",WENDEL TECK Curta! SD
+http://canais.servidor.tv:8080/regina/12345/338
+#EXTINF:-1 tvg-id="" tvg-name="DAZN" tvg-logo="http://lb1.iptv.movie/logos/dazn.jpg" group-title="Canais: Esporte",DAZN
+http://canais.servidor.tv:8080/regina/12345/2716
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel HD" tvg-logo="http://lb1.iptv.movie/logos/discoverychannel.png" group-title="Canais: Documentário",WENDEL TECK Discovery Channel HD
+http://canais.servidor.tv:8080/regina/12345/1487
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel HD+" tvg-logo="http://lb1.iptv.movie/logos/discoverychannel.png" group-title="Canais: Documentário",WENDEL TECK Discovery Channel HD+
+http://canais.servidor.tv:8080/regina/12345/337
+#EXTINF:-1 tvg-id="discoverycivilization.br" tvg-name="Discovery Civilization HD" tvg-logo="http://lb1.iptv.movie/logos/discoverycivilization.png" group-title="Canais: Documentário",WENDEL TECK Discovery Civilization HD
+http://canais.servidor.tv:8080/regina/12345/1484
+#EXTINF:-1 tvg-id="discoverycivilization.br" tvg-name="Discovery Civilization HD+" tvg-logo="http://lb1.iptv.movie/logos/discoverycivilization.png" group-title="Canais: Documentário",WENDEL TECK Discovery Civilization HD+
+http://canais.servidor.tv:8080/regina/12345/335
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery Home & Health HD" tvg-logo="http://lb1.iptv.movie/logos/discoveryhomehealth.jpg" group-title="Canais: Variedade e Música",WENDEL TECK Discovery Home & Health HD
+http://canais.servidor.tv:8080/regina/12345/1518
+#EXTINF:-1 tvg-id="discoveryhomehealth.br" tvg-name="Discovery Home & Health HD+" tvg-logo="http://lb1.iptv.movie/logos/discoveryhomehealth.jpg" group-title="Canais: Variedade e Música",WENDEL TECK Discovery Home & Health HD+
+http://canais.servidor.tv:8080/regina/12345/334
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids HD" tvg-logo="http://lb1.iptv.movie/logos/discoverykids.jpg" group-title="Canais: Infantil",WENDEL TECK Discovery Kids HD
+http://canais.servidor.tv:8080/regina/12345/1483
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids HD+" tvg-logo="http://lb1.iptv.movie/logos/discoverykids.jpg" group-title="Canais: Infantil",WENDEL TECK Discovery Kids HD+
+http://canais.servidor.tv:8080/regina/12345/332
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science HD" tvg-logo="http://lb1.iptv.movie/logos/discoveryscience.jpg" group-title="Canais: Documentário",WENDEL TECK Discovery Science HD
+http://canais.servidor.tv:8080/regina/12345/1482
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science HD+" tvg-logo="http://lb1.iptv.movie/logos/discoveryscience.jpg" group-title="Canais: Documentário",WENDEL TECK Discovery Science HD+
+http://canais.servidor.tv:8080/regina/12345/330
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater HD" tvg-logo="http://lb1.iptv.movie/logos/discoverytheater.png" group-title="Canais: Documentário",WENDEL TECK Discovery Theater HD
+http://canais.servidor.tv:8080/regina/12345/1486
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater HD+" tvg-logo="http://lb1.iptv.movie/logos/discoverytheater.png" group-title="Canais: Documentário",WENDEL TECK Discovery Theater HD+
+http://canais.servidor.tv:8080/regina/12345/329
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo HD" tvg-logo="http://lb1.iptv.movie/logos/discoveryturbo.jpg" group-title="Canais: Documentário",WENDEL TECK Discovery Turbo HD
+http://canais.servidor.tv:8080/regina/12345/1481
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo HD+" tvg-logo="http://lb1.iptv.movie/logos/discoveryturbo.jpg" group-title="Canais: Documentário",WENDEL TECK Discovery Turbo HD+
+http://canais.servidor.tv:8080/regina/12345/328
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World HD" tvg-logo="http://lb1.iptv.movie/logos/discoveryworld.png" group-title="Canais: Documentário",WENDEL TECK Discovery World HD
+http://canais.servidor.tv:8080/regina/12345/1485
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World HD+" tvg-logo="http://lb1.iptv.movie/logos/discoveryworld.png" group-title="Canais: Documentário",WENDEL TECK Discovery World HD+
+http://canais.servidor.tv:8080/regina/12345/326
+#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="Disney Channel HD" tvg-logo="http://lb1.iptv.movie/logos/disneychannel.png" group-title="Canais: Infantil",WENDEL TECK Disney Channel HD
+http://canais.servidor.tv:8080/regina/12345/1480
+#EXTINF:-1 tvg-id="disneychannel.pt" tvg-name="Disney Channel HD+" tvg-logo="http://lb1.iptv.movie/logos/disneychannel.png" group-title="Canais: Infantil",WENDEL TECK Disney Channel HD+
+http://canais.servidor.tv:8080/regina/12345/325
+#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="Disney Júnior HD" tvg-logo="http://lb1.iptv.movie/logos/disneyjr.png" group-title="Canais: Infantil",WENDEL TECK Disney Júnior HD
+http://canais.servidor.tv:8080/regina/12345/1478
+#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="Disney Júnior HD+" tvg-logo="http://lb1.iptv.movie/logos/disneyjr.png" group-title="Canais: Infantil",WENDEL TECK Disney Júnior HD+
+http://canais.servidor.tv:8080/regina/12345/323
+#EXTINF:-1 tvg-id="disneyxd.us" tvg-name="Disney XD HD" tvg-logo="http://lb1.iptv.movie/logos/disneyxd.png" group-title="Canais: Infantil",WENDEL TECK Disney XD HD
+http://canais.servidor.tv:8080/regina/12345/1517
+#EXTINF:-1 tvg-id="disneyxd.us" tvg-name="Disney XD HD+" tvg-logo="http://lb1.iptv.movie/logos/disneyxd.png" group-title="Canais: Infantil",WENDEL TECK Disney XD HD+
+http://canais.servidor.tv:8080/regina/12345/683
